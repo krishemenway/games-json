@@ -1,5 +1,7 @@
 {
 	"Games": [
+		{ "GameId": "MountAndBlade2-2020", "Name": "Mount & Blade 2: Bannerlord", "Pattern": "**/Win64_Shipping_Client/TaleWorlds.MountAndBlade.Launcher.exe", "ReleaseDate": "2020-03-30" },
+		{ "GameId": "UnrealTournament2004-2004", "Name": "Unreal Tournament 2004", "Pattern": "**/system/UT2004.exe", "ReleaseDate": "2004-03-16" },
 		{ "GameId": "MinecraftBedrock-2017", "Name": "Minecraft (Bedrock)", "Pattern": "**/Minecraft.Windows.exe", "ReleaseDate": "2011-08-16" },
 		{ "GameId": "SpaceEngineers-2013", "Name": "Space Engineers", "Pattern": "**/SpaceEngineers/Bin64/SpaceEngineers.exe", "ReleaseDate": "2013-10-23" },
 		{ "GameId": "StardewValley-2016", "Name": "Stardew Valley", "Pattern": "**/Stardew Valley/Stardew Valley.exe", "ReleaseDate": "2016-02-26" },
