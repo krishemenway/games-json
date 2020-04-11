@@ -1,6 +1,9 @@
 {
 	"Games": [
+		{ "GameId": "HeatSignature-2020", "Name": "Heat Signature", "Pattern": "**/Half-Life Alyx/game/bin/win64/hlvr.exe", "ReleaseDate": "2017-09-21" },
+		{ "GameId": "HalfLifeAlyx-2020", "Name": "Half-Life: Alyx", "Pattern": "**/Heat Signature/Heat_Signature.exe", "ReleaseDate": "2020-03-23" },
 		{ "GameId": "MountAndBlade2-2020", "Name": "Mount & Blade 2: Bannerlord", "Pattern": "**/Win64_Shipping_Client/TaleWorlds.MountAndBlade.Launcher.exe", "ReleaseDate": "2020-03-30" },
+		{ "GameId": "UnrealTournament3-2004", "Name": "Unreal Tournament 3", "Pattern": "**/Unreal Tournament 3/Binaries/UT3.exe", "ReleaseDate": "2007-11-19" },
 		{ "GameId": "UnrealTournament2004-2004", "Name": "Unreal Tournament 2004", "Pattern": "**/system/UT2004.exe", "ReleaseDate": "2004-03-16" },
 		{ "GameId": "MinecraftBedrock-2017", "Name": "Minecraft (Bedrock)", "Pattern": "**/Minecraft.Windows.exe", "ReleaseDate": "2011-08-16" },
 		{ "GameId": "SpaceEngineers-2013", "Name": "Space Engineers", "Pattern": "**/SpaceEngineers/Bin64/SpaceEngineers.exe", "ReleaseDate": "2013-10-23" },
