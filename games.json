@@ -1,5 +1,6 @@
 {
 	"Games": [
+		{ "GameId": "FinalFantasyX2-2001", "Name": "Final Fantasy X-2", "Pattern": "**/FINAL FANTASY FFX&FFX-2 HD Remaster/FFX-2.exe", "ReleaseDate": "2001-07-19" },
 		{ "GameId": "FinalFantasy7-1997", "Name": "Final Fantasy 7", "Pattern": "**/FINAL FANTASY VII/FF7_EN.exe", "ReleaseDate": "1997-01-31" },
 		{ "GameId": "HeatSignature-2020", "Name": "Heat Signature", "Pattern": "**/Half-Life Alyx/game/bin/win64/hlvr.exe", "ReleaseDate": "2017-09-21" },
 		{ "GameId": "HalfLifeAlyx-2020", "Name": "Half-Life: Alyx", "Pattern": "**/Heat Signature/Heat_Signature.exe", "ReleaseDate": "2020-03-23" },
