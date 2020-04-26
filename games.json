@@ -1,5 +1,6 @@
 {
 	"Games": [
+		{ "GameId": "BattlefieldV-2018", "Name": "Battlefield V", "Pattern": "**/Battlefield V/bfv.exe", "ReleaseDate": "2018-11-20" },
 		{ "GameId": "EliteDangerous-2014", "Name": "Elite Dangerous", "Pattern": "**/Elite Dangerous/Products/elite-dangerous-64/EliteDangerous64.exe", "ReleaseDate": "2014-12-16" },
 		{ "GameId": "RocketLeague-2015", "Name": "Rocket League", "Pattern": "**/rocketleague/Binaries/RocketLeague.exe", "ReleaseDate": "2015-07-07" },
 		{ "GameId": "FinalFantasyX2-2001", "Name": "Final Fantasy X-2", "Pattern": "**/FINAL FANTASY FFX&FFX-2 HD Remaster/FFX-2.exe", "ReleaseDate": "2001-07-19" },
