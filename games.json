@@ -1,5 +1,6 @@
 {
 	"Games": [
+		{ "GameId": "7DaysToDie-2013", "Name": "7 Days to Die", "Pattern": "**/7 Days To Die/7DaysToDie_EAC.exe", "ReleaseDate": "2013-12-13" },
 		{ "GameId": "Factorio-2016", "Name": "Factorio", "Pattern": "**/Factorio/bin/x64/Factorio.exe", "ReleaseDate": "2016-02-21" },
 		{ "GameId": "StreetsOfRogue-2017", "Name": "Streets of Rogue", "Pattern": "**/Streets of Rogue/StreetsOfRogue.exe", "ReleaseDate": "2017-03-10" },
 		{ "GameId": "BattlefieldV-2018", "Name": "Battlefield V", "Pattern": "**/Battlefield V/bfv.exe", "ReleaseDate": "2018-11-20" },
