@@ -1,5 +1,6 @@
 {
 	"Games": [
+		{ "GameId": "ScrapMechanic-2016", "Name": "Scrap Mechanic", "Pattern": "**/Release/ScrapMechanic.exe", "ReleaseDate": "2016-01-20" },
  		{ "GameId": "StreetsOfRage4-2020", "Name": "Streets of Rage 4", "Pattern": "**/Streets of Rage 4/x64/SOR4.exe", "ReleaseDate": "2020-04-30" },
 		{ "GameId": "7DaysToDie-2013", "Name": "7 Days to Die", "Pattern": "**/7 Days To Die/UnityCrashHandler64.exe", "ReleaseDate": "2013-12-13" },
 		{ "GameId": "Factorio-2016", "Name": "Factorio", "Pattern": "**/Factorio/bin/x64/Factorio.exe", "ReleaseDate": "2016-02-21" },
