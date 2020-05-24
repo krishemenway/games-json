@@ -1,35 +1,252 @@
 {
-	"Games": [
- 		{ "GameId": "HyperchargeUnboxed-2020", "Name": "Hypercharge: Unboxed", "Pattern": "**/HYPERCHARGE Unboxed/Unboxed.exe", "ReleaseDate": "2020-01-31", "SteamId": 523660 },
-		{ "GameId": "ScrapMechanic-2016", "Name": "Scrap Mechanic", "Pattern": "**/Release/ScrapMechanic.exe", "ReleaseDate": "2016-01-20", "SteamId": 387990 },
- 		{ "GameId": "StreetsOfRage4-2020", "Name": "Streets of Rage 4", "Pattern": "**/Streets of Rage 4/x64/SOR4.exe", "ReleaseDate": "2020-04-30", "SteamId": 985890 },
-		{ "GameId": "7DaysToDie-2013", "Name": "7 Days to Die", "Pattern": "**/7 Days To Die/UnityCrashHandler64.exe", "ReleaseDate": "2013-12-13", "SteamId": 251570 },
-		{ "GameId": "Factorio-2016", "Name": "Factorio", "Pattern": "**/Factorio/bin/x64/Factorio.exe", "ReleaseDate": "2016-02-21", "SteamId": 427520 },
-		{ "GameId": "StreetsOfRogue-2017", "Name": "Streets of Rogue", "Pattern": "**/Streets of Rogue/StreetsOfRogue.exe", "ReleaseDate": "2017-03-10", "SteamId": 512900 },
-		{ "GameId": "BattlefieldV-2018", "Name": "Battlefield V", "Pattern": "**/Battlefield V/bfv.exe", "ReleaseDate": "2018-11-20", "SteamId": null },
-		{ "GameId": "EliteDangerous-2014", "Name": "Elite Dangerous", "Pattern": "**/Elite Dangerous/Products/elite-dangerous-64/EliteDangerous64.exe", "ReleaseDate": "2014-12-16", "SteamId": 359320 },
-		{ "GameId": "RocketLeague-2015", "Name": "Rocket League", "Pattern": "**/rocketleague/Binaries/RocketLeague.exe", "ReleaseDate": "2015-07-07", "SteamId": 252950 },
-		{ "GameId": "FinalFantasyX2-2001", "Name": "Final Fantasy X-2", "Pattern": "**/FINAL FANTASY FFX&FFX-2 HD Remaster/FFX-2.exe", "ReleaseDate": "2001-07-19", "SteamId": 359870 },
-		{ "GameId": "FinalFantasy7-1997", "Name": "Final Fantasy 7", "Pattern": "**/FINAL FANTASY VII/FF7_EN.exe", "ReleaseDate": "1997-01-31", "SteamId": 39140 },
-		{ "GameId": "HeatSignature-2020", "Name": "Heat Signature", "Pattern": "**/Half-Life Alyx/game/bin/win64/hlvr.exe", "ReleaseDate": "2017-09-21", "SteamId": 268130 },
-		{ "GameId": "HalfLifeAlyx-2020", "Name": "Half-Life: Alyx", "Pattern": "**/Heat Signature/Heat_Signature.exe", "ReleaseDate": "2020-03-23", "SteamId": 546560 },
-		{ "GameId": "MountAndBlade2-2020", "Name": "Mount & Blade 2: Bannerlord", "Pattern": "**/Win64_Shipping_Client/TaleWorlds.MountAndBlade.Launcher.exe", "ReleaseDate": "2020-03-30", "SteamId": 261550 },
-		{ "GameId": "UnrealTournament3-2004", "Name": "Unreal Tournament 3", "Pattern": "**/Unreal Tournament 3/Binaries/UT3.exe", "ReleaseDate": "2007-11-19", "SteamId": 13210 },
-		{ "GameId": "UnrealTournament2004-2004", "Name": "Unreal Tournament 2004", "Pattern": "**/system/UT2004.exe", "ReleaseDate": "2004-03-16", "SteamId": 13230 },
-		{ "GameId": "MinecraftBedrock-2017", "Name": "Minecraft (Bedrock)", "Pattern": "**/Minecraft.Windows.exe", "ReleaseDate": "2011-08-16", "SteamId": null },
-		{ "GameId": "SpaceEngineers-2013", "Name": "Space Engineers", "Pattern": "**/SpaceEngineers/Bin64/SpaceEngineers.exe", "ReleaseDate": "2013-10-23", "SteamId": null },
-		{ "GameId": "StardewValley-2016", "Name": "Stardew Valley", "Pattern": "**/Stardew Valley/Stardew Valley.exe", "ReleaseDate": "2016-02-26", "SteamId": 413150 },
-		{ "GameId": "Mindustry-2016", "Name": "Mindustry", "Pattern": "**/Mindustry/Mindustry.exe", "ReleaseDate": "2019-09-26", "SteamId": 1127400 },
-		{ "GameId": "Prey-2017", "Name": "Prey", "Pattern": "**/Prey/Binaries/Danielle/x64/Release/Prey.exe", "ReleaseDate": "2017-05-05", "SteamId": 480490 },
-		{ "GameId": "Titanfall2-2016", "Name": "Titanfall 2", "Pattern": "**/Titanfall2/Titanfall2.exe", "ReleaseDate": "2016-10-28", "SteamId": null },
-		{ "GameId": "RiskOfRain2-2019", "Name": "Risk of Rain 2", "Pattern": "**/Risk of Rain 2/Risk of Rain 2.exe", "ReleaseDate": "2019-03-28", "SteamId": 632360 },
-		{ "GameId": "BeatSaber-2018", "Name": "Beat Saber", "Pattern": "**/Beat Saber/Beat Saber.exe", "ReleaseDate": "2018-05-01", "SteamId": 620980 },
-		{ "GameId": "Raft-2018", "Name": "Raft", "Pattern": "**/Raft/Raft.exe", "ReleaseDate": "2018-05-23", "SteamId": 648800 },
-		{ "GameId": "DeepRockGalactic-2018", "Name": "Deep Rock Galactic", "Pattern": "**/Deep Rock Galactic/FSD.exe", "ReleaseDate": "2018-02-28", "SteamId": 548430 },
-		{ "GameId": "20XX-2017", "Name": "20XX", "Pattern": "**/20XX/20XX.exe", "ReleaseDate": "2014-11-25", "SteamId": 322110 },
-		{ "GameId": "Borderlands3-2020", "Name": "Borderlands 3", "Pattern": "**/OakGame/Binaries/Win64/Borderlands3.exe", "ReleaseDate": "2019-09-13", "SteamId": 397540 },
-		{ "GameId": "Borderlands2-2012", "Name": "Borderlands 2", "Pattern": "**/Binaries/Borderlands2.exe", "ReleaseDate": "2012-09-18", "SteamId": 49520 },
-		{ "GameId": "CastleCrashers-2012", "Name": "Castle Crashers", "Pattern": "**/CastleCrashers/castle.exe", "ReleaseDate": "2012-09-26", "SteamId": 204360 },
-		{ "GameId": "KillingFloor2-2016", "Name": "Killing Floor 2", "Pattern": "**/killingfloor2/Binaries/Win64/KFGame.exe", "ReleaseDate": "2016-11-18", "SteamId": 232090 }
-	]
+  "Games": [
+    {
+      "GameId": "HyperchargeUnboxed-2020",
+      "Name": "Hypercharge: Unboxed",
+      "ReleaseDate": "2020-01-31T00:00:00",
+      "SteamId": 523660,
+      "Pattern": "**\\HYPERCHARGE Unboxed\\Unboxed.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/523660/8be12b71dd6a65dc31faf3f96fde171d412854db.jpg"
+    },
+    {
+      "GameId": "ScrapMechanic-2016",
+      "Name": "Scrap Mechanic",
+      "ReleaseDate": "2016-01-20T00:00:00",
+      "SteamId": 387990,
+      "Pattern": "**\\Release\\ScrapMechanic.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387990/a912301394e90691ef6a1598e971c9b47c1806b5.jpg"
+    },
+    {
+      "GameId": "StreetsOfRage4-2020",
+      "Name": "Streets of Rage 4",
+      "ReleaseDate": "2020-04-30T00:00:00",
+      "SteamId": 985890,
+      "Pattern": "**\\Streets of Rage 4\\x64\\SOR4.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/985890/befb7c78958bea322edfaa2f87abefaa28d35c37.jpg"
+    },
+    {
+      "GameId": "7DaysToDie-2013",
+      "Name": "7 Days to Die",
+      "ReleaseDate": "2013-12-13T00:00:00",
+      "SteamId": 251570,
+      "Pattern": "**\\7 Days To Die\\UnityCrashHandler64.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg"
+    },
+    {
+      "GameId": "Factorio-2016",
+      "Name": "Factorio",
+      "ReleaseDate": "2016-02-21T00:00:00",
+      "SteamId": 427520,
+      "Pattern": "**\\Factorio\\bin\\x64\\Factorio.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/427520/267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d.jpg"
+    },
+    {
+      "GameId": "StreetsOfRogue-2017",
+      "Name": "Streets of Rogue",
+      "ReleaseDate": "2017-03-10T00:00:00",
+      "SteamId": 512900,
+      "Pattern": "**\\Streets of Rogue\\StreetsOfRogue.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/512900/36dad6939749b4ccca0d1e2298b8e79e154b5135.jpg"
+    },
+    {
+      "GameId": "BattlefieldV-2018",
+      "Name": "Battlefield V",
+      "ReleaseDate": "2018-11-20T00:00:00",
+      "SteamId": null,
+      "Pattern": "**\\Battlefield V\\bfv.exe",
+      "IconUri": null
+    },
+    {
+      "GameId": "EliteDangerous-2014",
+      "Name": "Elite Dangerous",
+      "ReleaseDate": "2014-12-16T00:00:00",
+      "SteamId": 359320,
+      "Pattern": "**\\Elite Dangerous\\Products\\elite-dangerous-64\\EliteDangerous64.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359320/c893e2752550a70950d90c5b881c7d6aac312356.jpg"
+    },
+    {
+      "GameId": "RocketLeague-2015",
+      "Name": "Rocket League",
+      "ReleaseDate": "2015-07-07T00:00:00",
+      "SteamId": 252950,
+      "Pattern": "**\\rocketleague\\Binaries\\RocketLeague.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252950/9ad6dd3d173523354385955b5fb2af87639c4163.jpg"
+    },
+    {
+      "GameId": "FinalFantasyX2-2001",
+      "Name": "Final Fantasy X-2",
+      "ReleaseDate": "2001-07-19T00:00:00",
+      "SteamId": 359870,
+      "Pattern": "**\\FINAL FANTASY FFX\u0026FFX-2 HD Remaster\\FFX-2.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359870/86616d56239e83099e90940c8c9424489aee2ceb.jpg"
+    },
+    {
+      "GameId": "FinalFantasy7-1997",
+      "Name": "Final Fantasy 7",
+      "ReleaseDate": "1997-01-31T00:00:00",
+      "SteamId": 39140,
+      "Pattern": "**\\FINAL FANTASY VII\\FF7_EN.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/39140/dc89ce8f07d5ec36a5617a66fe16e3541d2cc172.jpg"
+    },
+    {
+      "GameId": "HeatSignature-2020",
+      "Name": "Heat Signature",
+      "ReleaseDate": "2017-09-21T00:00:00",
+      "SteamId": 268130,
+      "Pattern": "**\\Half-Life Alyx\\game\\bin\\win64\\hlvr.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268130/186897aa47f73520e6f5e2bd5ca3664360856aa3.jpg"
+    },
+    {
+      "GameId": "HalfLifeAlyx-2020",
+      "Name": "Half-Life: Alyx",
+      "ReleaseDate": "2020-03-23T00:00:00",
+      "SteamId": 546560,
+      "Pattern": "**\\Heat Signature\\Heat_Signature.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/225032ac2ad1aca8f5fd98baa2b9daf1eebea5ca.jpg"
+    },
+    {
+      "GameId": "MountAndBlade2-2020",
+      "Name": "Mount \u0026 Blade 2: Bannerlord",
+      "ReleaseDate": "2020-03-30T00:00:00",
+      "SteamId": 261550,
+      "Pattern": "**\\Win64_Shipping_Client\\TaleWorlds.MountAndBlade.Launcher.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/261550/896d5f4214e4e185a20af51b46d9dea2e6f4aaad.jpg"
+    },
+    {
+      "GameId": "UnrealTournament3-2004",
+      "Name": "Unreal Tournament 3",
+      "ReleaseDate": "2007-11-19T00:00:00",
+      "SteamId": 13210,
+      "Pattern": "**\\Unreal Tournament 3\\Binaries\\UT3.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13210/de312a41b8a0b8fd6e1f0490ab0b44416c53cc61.jpg"
+    },
+    {
+      "GameId": "UnrealTournament2004-2004",
+      "Name": "Unreal Tournament 2004",
+      "ReleaseDate": "2004-03-16T00:00:00",
+      "SteamId": 13230,
+      "Pattern": "**\\system\\UT2004.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13230/db3782214c4285c254f632b0e803ed341c250c9d.jpg"
+    },
+    {
+      "GameId": "MinecraftBedrock-2017",
+      "Name": "Minecraft (Bedrock)",
+      "ReleaseDate": "2011-08-16T00:00:00",
+      "SteamId": null,
+      "Pattern": "**\\Minecraft.Windows.exe",
+      "IconUri": null
+    },
+    {
+      "GameId": "SpaceEngineers-2013",
+      "Name": "Space Engineers",
+      "ReleaseDate": "2013-10-23T00:00:00",
+      "SteamId": null,
+      "Pattern": "**\\SpaceEngineers\\Bin64\\SpaceEngineers.exe",
+      "IconUri": null
+    },
+    {
+      "GameId": "StardewValley-2016",
+      "Name": "Stardew Valley",
+      "ReleaseDate": "2016-02-26T00:00:00",
+      "SteamId": 413150,
+      "Pattern": "**\\Stardew Valley\\Stardew Valley.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413150/35d1377200084a4034238c05b0c8930451e2fb40.jpg"
+    },
+    {
+      "GameId": "Mindustry-2016",
+      "Name": "Mindustry",
+      "ReleaseDate": "2019-09-26T00:00:00",
+      "SteamId": 1127400,
+      "Pattern": "**\\Mindustry\\Mindustry.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127400/1abc85522939efd31f3439302e64f673ba2424a5.jpg"
+    },
+    {
+      "GameId": "Prey-2017",
+      "Name": "Prey",
+      "ReleaseDate": "2017-05-05T00:00:00",
+      "SteamId": 480490,
+      "Pattern": "**\\Prey\\Binaries\\Danielle\\x64\\Release\\Prey.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/480490/5ef565e374f039469e4a5c332cd51584af7ec5db.jpg"
+    },
+    {
+      "GameId": "Titanfall2-2016",
+      "Name": "Titanfall 2",
+      "ReleaseDate": "2016-10-28T00:00:00",
+      "SteamId": null,
+      "Pattern": "**\\Titanfall2\\Titanfall2.exe",
+      "IconUri": null
+    },
+    {
+      "GameId": "RiskOfRain2-2019",
+      "Name": "Risk of Rain 2",
+      "ReleaseDate": "2019-03-28T00:00:00",
+      "SteamId": 632360,
+      "Pattern": "**\\Risk of Rain 2\\Risk of Rain 2.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/f5d0150f7ab9e51e9d2fadd97ddf5419f70d86c1.jpg"
+    },
+    {
+      "GameId": "BeatSaber-2018",
+      "Name": "Beat Saber",
+      "ReleaseDate": "2018-05-01T00:00:00",
+      "SteamId": 620980,
+      "Pattern": "**\\Beat Saber\\Beat Saber.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620980/a55503c4d3f36f21a5046ddecb779e33fcf66d16.jpg"
+    },
+    {
+      "GameId": "Raft-2018",
+      "Name": "Raft",
+      "ReleaseDate": "2018-05-23T00:00:00",
+      "SteamId": 648800,
+      "Pattern": "**\\Raft\\Raft.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/648800/6a9ae357c4133b1b631b520edd25b1974f3afb68.jpg"
+    },
+    {
+      "GameId": "DeepRockGalactic-2018",
+      "Name": "Deep Rock Galactic",
+      "ReleaseDate": "2018-02-28T00:00:00",
+      "SteamId": 548430,
+      "Pattern": "**\\Deep Rock Galactic\\FSD.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548430/e033e23c29a192a17c16a7645a2b423ac64ff447.jpg"
+    },
+    {
+      "GameId": "20XX-2017",
+      "Name": "20XX",
+      "ReleaseDate": "2014-11-25T00:00:00",
+      "SteamId": 322110,
+      "Pattern": "**\\20XX\\20XX.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322110/95ac6fcd59b9f68e37ecce346a48ad975eedc2ec.jpg"
+    },
+    {
+      "GameId": "Borderlands3-2020",
+      "Name": "Borderlands 3",
+      "ReleaseDate": "2019-09-13T00:00:00",
+      "SteamId": 397540,
+      "Pattern": "**\\OakGame\\Binaries\\Win64\\Borderlands3.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397540/de28bd508174ea49c8a232351f8cfef69c6d1639.jpg"
+    },
+    {
+      "GameId": "Borderlands2-2012",
+      "Name": "Borderlands 2",
+      "ReleaseDate": "2012-09-18T00:00:00",
+      "SteamId": 49520,
+      "Pattern": "**\\Binaries\\Borderlands2.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/49520/a3f4945226e69b6196074df4c776e342d3e5a3be.jpg"
+    },
+    {
+      "GameId": "CastleCrashers-2012",
+      "Name": "Castle Crashers",
+      "ReleaseDate": "2012-09-26T00:00:00",
+      "SteamId": 204360,
+      "Pattern": "**\\CastleCrashers\\castle.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg"
+    },
+    {
+      "GameId": "KillingFloor2-2016",
+      "Name": "Killing Floor 2",
+      "ReleaseDate": "2016-11-18T00:00:00",
+      "SteamId": 232090,
+      "Pattern": "**\\killingfloor2\\Binaries\\Win64\\KFGame.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/232090/15837cefb378766e9916548f8591b6eb490b9e52.jpg"
+    }
+  ]
 }
