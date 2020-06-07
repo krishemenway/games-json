@@ -241,6 +241,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg"
     },
     {
+      "GameId": "NierAutomata-2017",
+      "Name": "NieR:Automata",
+      "ReleaseDate": "2017-03-17T00:00:00",
+      "SteamId": 524220,
+      "Pattern": "**\\NieRAutomata\\NieRAutomata.exe",
+      "IconUri": null
+    },
+    {
       "GameId": "KillingFloor2-2016",
       "Name": "Killing Floor 2",
       "ReleaseDate": "2016-11-18T00:00:00",
