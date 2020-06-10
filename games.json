@@ -33,6 +33,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620980/a55503c4d3f36f21a5046ddecb779e33fcf66d16.jpg"
     },
     {
+      "GameId": "BladeAndSorcery-2018",
+      "Name": "Blade and Sorcery",
+      "ReleaseDate": "2018-12-11T00:00:00",
+      "SteamId": 629730,
+      "Pattern": "**\\Blade \u0026 Sorcery\\BladeAndSorcery.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/629730/3a01fc72a16d06a538330e11cae7ed87bf0d40e5.jpg"
+    },
+    {
       "GameId": "Borderlands2-2012",
       "Name": "Borderlands 2",
       "ReleaseDate": "2012-09-18T00:00:00",
@@ -103,6 +111,14 @@
       "SteamId": 546560,
       "Pattern": "**\\Heat Signature\\Heat_Signature.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/225032ac2ad1aca8f5fd98baa2b9daf1eebea5ca.jpg"
+    },
+    {
+      "GameId": "HaloMasterChiefCollection-2018",
+      "Name": "Halo: The Master Chief Collection",
+      "ReleaseDate": "2019-12-03T00:00:00",
+      "SteamId": 976730,
+      "Pattern": "**\\Halo The Master Chief Collection\\mcclauncher.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/196a45d8df1981ff6b6b1872a38dc38f6c22875d.jpg"
     },
     {
       "GameId": "HeatSignature-2020",
@@ -193,6 +209,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252950/9ad6dd3d173523354385955b5fb2af87639c4163.jpg"
     },
     {
+      "GameId": "Satisfactory-2019",
+      "Name": "Satisfactory",
+      "ReleaseDate": "2019-03-19T00:00:00",
+      "SteamId": 526870,
+      "Pattern": "**\\Satisfactory\\FactoryGame.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/526870/ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6.jpg"
+    },
+    {
       "GameId": "ScrapMechanic-2016",
       "Name": "Scrap Mechanic",
       "ReleaseDate": "2016-01-20T00:00:00",
@@ -231,6 +255,14 @@
       "SteamId": 512900,
       "Pattern": "**\\Streets of Rogue\\StreetsOfRogue.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/512900/36dad6939749b4ccca0d1e2298b8e79e154b5135.jpg"
+    },
+    {
+      "GameId": "Terraria-2011",
+      "Name": "Terraria",
+      "ReleaseDate": "2011-05-16T00:00:00",
+      "SteamId": 105600,
+      "Pattern": "**\\Terraria\\Terraria.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/105600/858961e95fbf869f136e1770d586e0caefd4cfac.jpg"
     },
     {
       "GameId": "Titanfall2-2016",
