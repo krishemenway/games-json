@@ -228,9 +228,9 @@
       "GameId": "SpaceEngineers-2013",
       "Name": "Space Engineers",
       "ReleaseDate": "2013-10-23T00:00:00",
-      "SteamId": null,
+      "SteamId": 244850,
       "Pattern": "**\\SpaceEngineers\\Bin64\\SpaceEngineers.exe",
-      "IconUri": null
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/244850/f9856a90000d88e9a89441a7381fe9877e91eaca.jpg"
     },
     {
       "GameId": "StardewValley-2016",
