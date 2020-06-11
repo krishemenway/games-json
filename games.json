@@ -20,9 +20,9 @@
       "GameId": "BattlefieldV-2018",
       "Name": "Battlefield V",
       "ReleaseDate": "2018-11-20T00:00:00",
-      "SteamId": null,
+      "SteamId": 1238810,
       "Pattern": "**\\Battlefield V\\bfv.exe",
-      "IconUri": null
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238810/e72f93e5d92655e3f11ca38255290af140adea32.jpg"
     },
     {
       "GameId": "BeatSaber-2018",
