@@ -292,9 +292,9 @@
       "GameId": "Titanfall2-2016",
       "Name": "Titanfall 2",
       "ReleaseDate": "2016-10-28T00:00:00",
-      "SteamId": null,
+      "SteamId": 1237970,
       "Pattern": "**\\Titanfall2\\Titanfall2.exe",
-      "IconUri": null
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg"
     },
     {
       "GameId": "UnrealTournament2004-2004",
