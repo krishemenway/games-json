@@ -137,6 +137,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/523660/8be12b71dd6a65dc31faf3f96fde171d412854db.jpg"
     },
     {
+      "GameId": "JetIsland-2018",
+      "Name": "Jet Island",
+      "ReleaseDate": "2018-09-21T00:00:00",
+      "SteamId": 587220,
+      "Pattern": "**\\Jet Island\\JetIsland.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/587220/1b15f20a02c87206ea30968782ecc6ba5b8cbc57.jpg"
+    },
+    {
       "GameId": "KillingFloor2-2016",
       "Name": "Killing Floor 2",
       "ReleaseDate": "2016-11-18T00:00:00",
