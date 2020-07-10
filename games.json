@@ -105,6 +105,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359870/86616d56239e83099e90940c8c9424489aee2ceb.jpg"
     },
     {
+      "GameId": "Gauntlet-2014",
+      "Name": "Gauntlet",
+      "ReleaseDate": "2014-09-23T00:00:00",
+      "SteamId": 258970,
+      "Pattern": "**\\Gauntlet\\binaries\\gauntlet.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/258970/183038d531a8cde7ac6aec03ca9bce7c49d4ca2e.jpg"
+    },
+    {
       "GameId": "HalfLifeAlyx-2020",
       "Name": "Half-Life: Alyx",
       "ReleaseDate": "2020-03-23T00:00:00",
