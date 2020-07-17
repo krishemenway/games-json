@@ -145,6 +145,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/523660/8be12b71dd6a65dc31faf3f96fde171d412854db.jpg"
     },
     {
+      "GameId": "Injustice2-2017",
+      "Name": "Injustice 2",
+      "ReleaseDate": "2017-11-30T00:00:00",
+      "SteamId": 627270,
+      "Pattern": "**\\Injustice2\\Binaries\\Retail\\Injustice2.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/627270/8ee01e7e4bc3a7f734dfa5fa5c1ebf2da3901556.jpg"
+    },
+    {
       "GameId": "JetIsland-2018",
       "Name": "Jet Island",
       "ReleaseDate": "2018-09-21T00:00:00",
