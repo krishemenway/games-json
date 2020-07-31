@@ -73,6 +73,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548430/e033e23c29a192a17c16a7645a2b423ac64ff447.jpg"
     },
     {
+      "GameId": "DyingLight-2015",
+      "Name": "Dying Light",
+      "ReleaseDate": "2015-01-27T00:00:00",
+      "SteamId": 239140,
+      "Pattern": "**\\Dying Light\\DyingLightGame.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239140/d6eafb4fab916ac475bf67054332dd1c0659f8d6.jpg"
+    },
+    {
       "GameId": "EliteDangerous-2014",
       "Name": "Elite Dangerous",
       "ReleaseDate": "2014-12-16T00:00:00",
