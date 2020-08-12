@@ -22,7 +22,7 @@
       "ReleaseDate": "2018-11-20T00:00:00",
       "SteamId": 1238810,
       "Pattern": "**\\Battlefield V\\bfv.exe",
-      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238810/e72f93e5d92655e3f11ca38255290af140adea32.jpg"
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238810/23ded6a957b5ec7525679c2e7bdac90c0653dbc8.jpg"
     },
     {
       "GameId": "BeatSaber-2018",
@@ -63,6 +63,14 @@
       "SteamId": 204360,
       "Pattern": "**\\CastleCrashers\\castle.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg"
+    },
+    {
+      "GameId": "CharlieMurder-2017",
+      "Name": "Charlie Murder",
+      "ReleaseDate": "2017-05-12T00:00:00",
+      "SteamId": 405290,
+      "Pattern": "**\\Charlie Murder\\CharlieMurder.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405290/bebc0673b682df4222da5d8ea2f0cdeb4cefe29f.jpg"
     },
     {
       "GameId": "DeepRockGalactic-2018",
@@ -254,7 +262,7 @@
       "ReleaseDate": "2019-03-28T00:00:00",
       "SteamId": 632360,
       "Pattern": "**\\Risk of Rain 2\\Risk of Rain 2.exe",
-      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/f5d0150f7ab9e51e9d2fadd97ddf5419f70d86c1.jpg"
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0b809ac6f25e6570fecae5fc47bca0139a7bf70c.jpg"
     },
     {
       "GameId": "RocketLeague-2015",
