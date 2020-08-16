@@ -233,6 +233,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/275850/fccb20f309ac5ae05b3cb4576a8a3357edf86f2e.jpg"
     },
     {
+      "GameId": "OutOfAmmo-2016",
+      "Name": "Out of Ammo",
+      "ReleaseDate": "2016-09-15T00:00:00",
+      "SteamId": 451840,
+      "Pattern": "**\\Out of Ammo\\Outofammo.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/451840/b95b7cad187499b370a3bfd41f973212b97b8409.jpg"
+    },
+    {
       "GameId": "PlanetCoaster-2016",
       "Name": "Planet Coaster",
       "ReleaseDate": "2016-11-17T00:00:00",
@@ -247,6 +255,14 @@
       "SteamId": 480490,
       "Pattern": "**\\Prey\\Binaries\\Danielle\\x64\\Release\\Prey.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/480490/5ef565e374f039469e4a5c332cd51584af7ec5db.jpg"
+    },
+    {
+      "GameId": "QuiVr-2018",
+      "Name": "QuiVr",
+      "ReleaseDate": "2018-06-18T00:00:00",
+      "SteamId": 489380,
+      "Pattern": "**\\QuiVr\\QuiVr.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/489380/f0f2e8530935ba24c46ae766dc0b2e9d1001c84e.jpg"
     },
     {
       "GameId": "Raft-2018",
