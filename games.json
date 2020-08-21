@@ -193,6 +193,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553310/6288b5eef47d603f11c1551b2c77913fd7f89d77.jpg"
     },
     {
+      "GameId": "MetalGearSolidV-2015",
+      "Name": "Metal Gear Solid V: The Phantom Pain",
+      "ReleaseDate": "2015-09-01T00:00:00",
+      "SteamId": 287700,
+      "Pattern": "**\\MGS_TPP\\mgsvtpp.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287700/7a1737163c96ea641143db45709a4ac444ba8f7b.jpg"
+    },
+    {
       "GameId": "Mindustry-2016",
       "Name": "Mindustry",
       "ReleaseDate": "2019-09-26T00:00:00",
