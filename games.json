@@ -25,6 +25,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238810/23ded6a957b5ec7525679c2e7bdac90c0653dbc8.jpg"
     },
     {
+      "GameId": "Battletoads-2020",
+      "Name": "Battletoads",
+      "ReleaseDate": "2020-08-20T00:00:00",
+      "SteamId": 1244950,
+      "Pattern": "**\\Battletoads\\Battletoads.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244950/348511be16b9fc6713c34fc120907a5d650594f7.jpg"
+    },
+    {
       "GameId": "BeatSaber-2018",
       "Name": "Beat Saber",
       "ReleaseDate": "2018-05-01T00:00:00",
