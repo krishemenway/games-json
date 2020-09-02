@@ -81,6 +81,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405290/bebc0673b682df4222da5d8ea2f0cdeb4cefe29f.jpg"
     },
     {
+      "GameId": "ChildrenOfMorta-2019",
+      "Name": "Children of Morta",
+      "ReleaseDate": "2019-09-03T00:00:00",
+      "SteamId": 330020,
+      "Pattern": "**\\ChildrenOfMorta\\ChildrenOfMorta.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b.jpg"
+    },
+    {
       "GameId": "DeepRockGalactic-2018",
       "Name": "Deep Rock Galactic",
       "ReleaseDate": "2018-02-28T00:00:00",
