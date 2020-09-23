@@ -337,6 +337,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/244850/f9856a90000d88e9a89441a7381fe9877e91eaca.jpg"
     },
     {
+      "GameId": "Starbound-2016",
+      "Name": "Starbound",
+      "ReleaseDate": "2016-07-22T00:00:00",
+      "SteamId": 211820,
+      "Pattern": "**\\Starbound\\win64\\starbound.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/211820/4dbf4041c33eb2edfc41f552320a2e584519134c.jpg"
+    },
+    {
       "GameId": "StardewValley-2016",
       "Name": "Stardew Valley",
       "ReleaseDate": "2016-02-26T00:00:00",
