@@ -17,6 +17,22 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg"
     },
     {
+      "GameId": "AssassinsCreedBlackFlag-2013",
+      "Name": "Assassin\u0027s Creed IV Black Flag",
+      "ReleaseDate": "2013-11-19T00:00:00",
+      "SteamId": 242050,
+      "Pattern": "**\\Assassin\u0027s Creed IV Black Flag\\AC4BFSP.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242050/a03c06290af00eed66814815663b68f5fd063882.jpg"
+    },
+    {
+      "GameId": "AssassinsCreedOdyssey-2018",
+      "Name": "Assassin\u0027s Creed Odyssey",
+      "ReleaseDate": "2018-10-05T00:00:00",
+      "SteamId": 812140,
+      "Pattern": "**\\Assassins Creed Odyssey\\ACOdyssey.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg"
+    },
+    {
       "GameId": "BattlefieldV-2018",
       "Name": "Battlefield V",
       "ReleaseDate": "2018-11-20T00:00:00",
