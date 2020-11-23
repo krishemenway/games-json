@@ -161,6 +161,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/258970/183038d531a8cde7ac6aec03ca9bce7c49d4ca2e.jpg"
     },
     {
+      "GameId": "Ghostbusters-2009",
+      "Name": "Ghostbusters: The Video Game",
+      "ReleaseDate": "2009-06-16T00:00:00",
+      "SteamId": 1449280,
+      "Pattern": "**\\Ghostbusters The Video Game Remastered\\ghost.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449280/c9ebd94acf66096fb786467017534f00f5705b60.jpg"
+    },
+    {
       "GameId": "HalfLifeAlyx-2020",
       "Name": "Half-Life: Alyx",
       "ReleaseDate": "2020-03-23T00:00:00",
@@ -415,6 +423,14 @@
       "SteamId": 13210,
       "Pattern": "**\\Unreal Tournament 3\\Binaries\\UT3.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13210/de312a41b8a0b8fd6e1f0490ab0b44416c53cc61.jpg"
+    },
+    {
+      "GameId": "ZeroCaliberVR-2009",
+      "Name": "Zero Caliber VR",
+      "ReleaseDate": "2018-11-09T00:00:00",
+      "SteamId": 877200,
+      "Pattern": "**\\Zero Caliber VR\\ZeroCaliber.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/877200/569dcff2f3ff7ed7e30b9b58695f2b27b41576a8.jpg"
     }
   ]
 }
