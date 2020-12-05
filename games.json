@@ -321,6 +321,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/648800/6a9ae357c4133b1b631b520edd25b1974f3afb68.jpg"
     },
     {
+      "GameId": "RemnantFromTheAshes-2019",
+      "Name": "Remnant: From the Ashes",
+      "ReleaseDate": "2019-08-19T00:00:00",
+      "SteamId": 617290,
+      "Pattern": "**\\Remnant\\Remnant.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/617290/0fec2d481028011910bf6fc35c61d19386695128.jpg"
+    },
+    {
       "GameId": "RiskOfRain2-2019",
       "Name": "Risk of Rain 2",
       "ReleaseDate": "2019-03-28T00:00:00",
@@ -335,6 +343,14 @@
       "SteamId": 252950,
       "Pattern": "**\\rocketleague\\Binaries\\RocketLeague.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252950/9ad6dd3d173523354385955b5fb2af87639c4163.jpg"
+    },
+    {
+      "GameId": "RogueLegacy2-2020",
+      "Name": "Rogue Legacy 2",
+      "ReleaseDate": "2020-08-18T00:00:00",
+      "SteamId": 1253920,
+      "Pattern": "**\\Rogue Legacy 2\\Rogue Legacy 2.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/26b5893433c0983aa19ec4403465f7616a46e5cb.jpg"
     },
     {
       "GameId": "Satisfactory-2019",
@@ -423,6 +439,14 @@
       "SteamId": 13210,
       "Pattern": "**\\Unreal Tournament 3\\Binaries\\UT3.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13210/de312a41b8a0b8fd6e1f0490ab0b44416c53cc61.jpg"
+    },
+    {
+      "GameId": "XCOMEnemyUnknown-2012",
+      "Name": "XCOM: Enemy Unknown",
+      "ReleaseDate": "2012-10-08T00:00:00",
+      "SteamId": 200510,
+      "Pattern": "**\\XCom-Enemy-Unknown\\Binaries\\Win32\\XComGame.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200510/48be2fee1d0d511b5c7313e1359beafd36ea92ed.jpg"
     },
     {
       "GameId": "ZeroCaliberVR-2009",
