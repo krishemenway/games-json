@@ -153,6 +153,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/427520/267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d.jpg"
     },
     {
+      "GameId": "FalloutNewVegas-2017",
+      "Name": "Fallout: New Vegas",
+      "ReleaseDate": "2010-10-19T00:00:00",
+      "SteamId": 22380,
+      "Pattern": "**\\Fallout New Vegas\\FalloutNV.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22380/1711fd8c46d739feec76bd4a64eaeeca5b87e3a7.jpg"
+    },
+    {
       "GameId": "FinalFantasy7-1997",
       "Name": "Final Fantasy 7",
       "ReleaseDate": "1997-01-31T00:00:00",
