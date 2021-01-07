@@ -181,7 +181,7 @@
       "Name": "Tom Clancy\u0027s Ghost Recon\u00AE Wildlands",
       "ReleaseDate": "2017-03-07T00:00:00",
       "SteamId": 460930,
-      "Pattern": "**\\Wildlands\\rungame.exe",
+      "Pattern": "**\\Wildlands\\GRW.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/ddd459159befc6a8cd6c4cb0e2a13c2fd2f8b065.jpg"
     },
     {
