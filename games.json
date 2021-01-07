@@ -49,6 +49,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244950/348511be16b9fc6713c34fc120907a5d650594f7.jpg"
     },
     {
+      "GameId": "BattlezoneGoldEdition-2017",
+      "Name": "Battlezone Gold Edition",
+      "ReleaseDate": "2017-05-11T00:00:00",
+      "SteamId": 312650,
+      "Pattern": "**\\Battlezone\\bin\\Battlezone_DX12.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312650/407a43369888b47dcf44c1c44a3b2674258e46a0.jpg"
+    },
+    {
       "GameId": "BeatSaber-2018",
       "Name": "Beat Saber",
       "ReleaseDate": "2018-05-01T00:00:00",
