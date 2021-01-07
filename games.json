@@ -409,6 +409,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/26b5893433c0983aa19ec4403465f7616a46e5cb.jpg"
     },
     {
+      "GameId": "SairentoVR-2018",
+      "Name": "Sairento VR",
+      "ReleaseDate": "2018-02-06T00:00:00",
+      "SteamId": 555880,
+      "Pattern": "**\\Sairento VR\\SairentoVR.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555880/fab01fab8c716b234863975e1473cf9d98039f66.jpg"
+    },
+    {
       "GameId": "Satisfactory-2019",
       "Name": "Satisfactory",
       "ReleaseDate": "2019-03-19T00:00:00",
