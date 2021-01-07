@@ -105,6 +105,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b.jpg"
     },
     {
+      "GameId": "Cyberpunk2077-2020",
+      "Name": "Cyberpunk 2077",
+      "ReleaseDate": "2020-12-10T00:00:00",
+      "SteamId": 1091500,
+      "Pattern": "**\\Cyberpunk 2077\\bin\\x64\\Cyberpunk2077.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/5d4fea110b0e85bd80410c090ba7fe28c20d7b02.jpg"
+    },
+    {
       "GameId": "DeepRockGalactic-2018",
       "Name": "Deep Rock Galactic",
       "ReleaseDate": "2018-02-28T00:00:00",
@@ -169,6 +177,22 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449280/c9ebd94acf66096fb786467017534f00f5705b60.jpg"
     },
     {
+      "GameId": "GhostReconWildlands-2017",
+      "Name": "Tom Clancy\u0027s Ghost Recon\u00AE Wildlands",
+      "ReleaseDate": "2017-03-07T00:00:00",
+      "SteamId": 460930,
+      "Pattern": "**\\Wildlands\\GRW.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/ddd459159befc6a8cd6c4cb0e2a13c2fd2f8b065.jpg"
+    },
+    {
+      "GameId": "Hades-2020",
+      "Name": "Hades",
+      "ReleaseDate": "2020-09-17T00:00:00",
+      "SteamId": 1145360,
+      "Pattern": "**\\Hades\\x64\\Hades.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145360/8a3fca36a00883e8066263ad35dd15d77a1f9abc.jpg"
+    },
+    {
       "GameId": "HalfLifeAlyx-2020",
       "Name": "Half-Life: Alyx",
       "ReleaseDate": "2020-03-23T00:00:00",
@@ -191,6 +215,14 @@
       "SteamId": 268130,
       "Pattern": "**\\Half-Life Alyx\\game\\bin\\win64\\hlvr.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268130/186897aa47f73520e6f5e2bd5ca3664360856aa3.jpg"
+    },
+    {
+      "GameId": "HotLava-2019",
+      "Name": "Hot Lava",
+      "ReleaseDate": "2019-09-19T00:00:00",
+      "SteamId": 382560,
+      "Pattern": "**\\Hot Lava\\archive\\build\\hotlava.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382560/55cbb9e4676d16ce030bfb8d317d253d25194939.jpg"
     },
     {
       "GameId": "HyperchargeUnboxed-2020",
@@ -393,6 +425,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413150/35d1377200084a4034238c05b0c8930451e2fb40.jpg"
     },
     {
+      "GameId": "StrangeBrigade-2018",
+      "Name": "Strange Brigade",
+      "ReleaseDate": "2018-08-27T00:00:00",
+      "SteamId": 312670,
+      "Pattern": "**\\StrangeBrigade\\bin\\StrangeBrigade_DX12.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312670/328f1ee6525320b82ad06033da1e0194a9ae0436.jpg"
+    },
+    {
       "GameId": "StreetsOfRage4-2020",
       "Name": "Streets of Rage 4",
       "ReleaseDate": "2020-04-30T00:00:00",
@@ -407,6 +447,14 @@
       "SteamId": 512900,
       "Pattern": "**\\Streets of Rogue\\StreetsOfRogue.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/512900/36dad6939749b4ccca0d1e2298b8e79e154b5135.jpg"
+    },
+    {
+      "GameId": "SuperhotMindControlDelete-2020",
+      "Name": "SUPERHOT: MIND CONTROL DELETE",
+      "ReleaseDate": "2020-07-16T00:00:00",
+      "SteamId": 690040,
+      "Pattern": "**\\SUPERHOTMCD\\SHMCD.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/690040/b559e2f04cd42ef1d8fad23e735516bd7d155d5c.jpg"
     },
     {
       "GameId": "Terraria-2011",
@@ -439,6 +487,14 @@
       "SteamId": 13210,
       "Pattern": "**\\Unreal Tournament 3\\Binaries\\UT3.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13210/de312a41b8a0b8fd6e1f0490ab0b44416c53cc61.jpg"
+    },
+    {
+      "GameId": "WalkingDeadSaintsAndSinners-2020",
+      "Name": "The Walking Dead: Saints \u0026 Sinners",
+      "ReleaseDate": "2020-01-23T00:00:00",
+      "SteamId": 916840,
+      "Pattern": "**\\TWDSaintsAndSinners\\TWD.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/916840/57379893a3fffc2127d85e9e1ab7201410137566.jpg"
     },
     {
       "GameId": "XCOMEnemyUnknown-2012",
