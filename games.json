@@ -433,6 +433,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387990/a912301394e90691ef6a1598e971c9b47c1806b5.jpg"
     },
     {
+      "GameId": "SeaOfThieves-2018",
+      "Name": "Sea of Thieves",
+      "ReleaseDate": "2018-03-20T00:00:00",
+      "SteamId": 1172620,
+      "Pattern": "**\\Sea of Thieves\\Athena\\Binaries\\Win64\\SoTGame.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/f95f362708fc326511c5d86566c447ee625bf776.jpg"
+    },
+    {
       "GameId": "SpaceEngineers-2013",
       "Name": "Space Engineers",
       "ReleaseDate": "2013-10-23T00:00:00",
