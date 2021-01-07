@@ -337,6 +337,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/451840/b95b7cad187499b370a3bfd41f973212b97b8409.jpg"
     },
     {
+      "GameId": "PavlovVR-2017",
+      "Name": "Pavlov VR",
+      "ReleaseDate": "2017-02-27T00:00:00",
+      "SteamId": 555160,
+      "Pattern": "**\\PavlovVR\\Pavlov.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555160/7f7541a996d5a5858927ca260aa72616230c6d58.jpg"
+    },
+    {
       "GameId": "PlanetCoaster-2016",
       "Name": "Planet Coaster",
       "ReleaseDate": "2016-11-17T00:00:00",
