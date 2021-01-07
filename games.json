@@ -497,6 +497,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/512900/36dad6939749b4ccca0d1e2298b8e79e154b5135.jpg"
     },
     {
+      "GameId": "Superhot-2016",
+      "Name": "SUPERHOT",
+      "ReleaseDate": "2016-02-25T00:00:00",
+      "SteamId": 322500,
+      "Pattern": "**\\SUPERHOT\\SH.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/81839f0d50cb3e54c9aa7c69c04916f1e53d8c35.jpg"
+    },
+    {
       "GameId": "SuperhotMindControlDelete-2020",
       "Name": "SUPERHOT: MIND CONTROL DELETE",
       "ReleaseDate": "2020-07-16T00:00:00",
