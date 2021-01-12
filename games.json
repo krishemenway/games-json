@@ -177,6 +177,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359870/86616d56239e83099e90940c8c9424489aee2ceb.jpg"
     },
     {
+      "GameId": "Fortnite-2017",
+      "Name": "Fortnite",
+      "ReleaseDate": "2017-09-26T00:00:00",
+      "SteamId": null,
+      "Pattern": "**\\FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping.exe",
+      "IconUri": "https://raw.githubusercontent.com/krishemenway/games-json/master/games/Fortnite-2017/Icon32.png"
+    },
+    {
       "GameId": "Gauntlet-2014",
       "Name": "Gauntlet",
       "ReleaseDate": "2014-09-23T00:00:00",
