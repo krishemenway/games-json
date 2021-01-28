@@ -121,6 +121,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/5d4fea110b0e85bd80410c090ba7fe28c20d7b02.jpg"
     },
     {
+      "GameId": "DeadSpace3-2013",
+      "Name": "Dead Space 3",
+      "ReleaseDate": "2013-02-05T00:00:00",
+      "SteamId": 1238060,
+      "Pattern": "**\\Dead Space 3\\deadspace3.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238060/22294a53f3376c8f8ad0c8ecea1bfd11a2559258.jpg"
+    },
+    {
       "GameId": "DeepRockGalactic-2018",
       "Name": "Deep Rock Galactic",
       "ReleaseDate": "2018-02-28T00:00:00",
