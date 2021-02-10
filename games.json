@@ -569,6 +569,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13210/de312a41b8a0b8fd6e1f0490ab0b44416c53cc61.jpg"
     },
     {
+      "GameId": "Valheim-2021",
+      "Name": "Valheim",
+      "ReleaseDate": "2021-02-02T00:00:00",
+      "SteamId": 892970,
+      "Pattern": "**\\Valheim\\valheim.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg"
+    },
+    {
       "GameId": "WalkingDeadSaintsAndSinners-2020",
       "Name": "The Walking Dead: Saints \u0026 Sinners",
       "ReleaseDate": "2020-01-23T00:00:00",
