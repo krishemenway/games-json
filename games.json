@@ -9,6 +9,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322110/95ac6fcd59b9f68e37ecce346a48ad975eedc2ec.jpg"
     },
     {
+      "GameId": "30XX-2021",
+      "Name": "30XX",
+      "ReleaseDate": "2021-02-17T00:00:00",
+      "SteamId": 1029210,
+      "Pattern": "**\\30XX\\30XX.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029210/86fdcee24b903f651245ffa0a4e08f6f6866dbcd.jpg"
+    },
+    {
       "GameId": "7DaysToDie-2013",
       "Name": "7 Days to Die",
       "ReleaseDate": "2013-12-13T00:00:00",
@@ -327,6 +335,14 @@
       "SteamId": 261550,
       "Pattern": "**\\Win64_Shipping_Client\\TaleWorlds.MountAndBlade.Launcher.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/261550/896d5f4214e4e185a20af51b46d9dea2e6f4aaad.jpg"
+    },
+    {
+      "GameId": "Nebuchadnezzar-2021",
+      "Name": "Nebuchadnezzar",
+      "ReleaseDate": "2021-02-17T00:00:00",
+      "SteamId": 1157220,
+      "Pattern": "**\\nebuchadnezzar\\binary\\win\\nebuchadnezzar.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1157220/2ae1e989e64337680cebcd878967582c40036e28.jpg"
     },
     {
       "GameId": "NierAutomata-2017",
