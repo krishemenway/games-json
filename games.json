@@ -497,6 +497,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/f95f362708fc326511c5d86566c447ee625bf776.jpg"
     },
     {
+      "GameId": "SeriousSam4-2020",
+      "Name": "Serious Sam 4",
+      "ReleaseDate": "2020-09-24T00:00:00",
+      "SteamId": 257420,
+      "Pattern": "**\\Serious Sam 4\\Bin\\x64\\Sam4.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257420/3f9e66277464a7145cbfe504acbad29477956d69.jpg"
+    },
+    {
       "GameId": "SidMeiersPirates-2005",
       "Name": "Sid Meier\u0027s Pirates!",
       "ReleaseDate": "2005-07-11T00:00:00",
