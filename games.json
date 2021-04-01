@@ -265,6 +265,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268130/186897aa47f73520e6f5e2bd5ca3664360856aa3.jpg"
     },
     {
+      "GameId": "HeaveHo-2019",
+      "Name": "Heave Ho",
+      "ReleaseDate": "2019-08-29T00:00:00",
+      "SteamId": 905340,
+      "Pattern": "**\\Heave Ho\\HeaveHo.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905340/40c4305497de0d0ea540632e82dac34987354be8.jpg"
+    },
+    {
       "GameId": "HotLava-2019",
       "Name": "Hot Lava",
       "ReleaseDate": "2019-09-19T00:00:00",
