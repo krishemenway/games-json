@@ -161,6 +161,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359320/c893e2752550a70950d90c5b881c7d6aac312356.jpg"
     },
     {
+      "GameId": "EvilGenius2-2021",
+      "Name": "Evil Genius 2",
+      "ReleaseDate": "2021-03-30T00:00:00",
+      "SteamId": 700600,
+      "Pattern": "**\\Evil Genius 2\\bin\\evilgenius_dx12.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/700600/6c7467f298de6698a9e6efe1ba585206b6d0b741.jpg"
+    },
+    {
       "GameId": "Factorio-2016",
       "Name": "Factorio",
       "ReleaseDate": "2016-02-21T00:00:00",
