@@ -345,6 +345,14 @@
       "IconUri": null
     },
     {
+      "GameId": "MortalKombat11-2019",
+      "Name": "Mortal Kombat 11",
+      "ReleaseDate": "2019-04-23T00:00:00",
+      "SteamId": 976310,
+      "Pattern": "**\\Mortal Kombat 11\\Binaries\\Retail\\MK11.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976310/315c46ce25bcb6afa47473588b5fd8edeb3afdfa.jpg"
+    },
+    {
       "GameId": "MountAndBlade2-2020",
       "Name": "Mount \u0026 Blade 2: Bannerlord",
       "ReleaseDate": "2020-03-30T00:00:00",
