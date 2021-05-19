@@ -313,6 +313,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/232090/15837cefb378766e9916548f8591b6eb490b9e52.jpg"
     },
     {
+      "GameId": "KnockoutLeague-2018",
+      "Name": "Knockout League - Arcade VR Boxing",
+      "ReleaseDate": "2018-02-13T00:00:00",
+      "SteamId": 488920,
+      "Pattern": "**\\Knockout\\Knockout.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488920/c7adcb4e3450762eb60ed3c366e338b1f01e2f68.jpg"
+    },
+    {
       "GameId": "LethalLeagueBlaze-2018",
       "Name": "Lethal League Blaze",
       "ReleaseDate": "2018-10-24T00:00:00",
