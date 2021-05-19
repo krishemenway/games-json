@@ -241,6 +241,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/ddd459159befc6a8cd6c4cb0e2a13c2fd2f8b065.jpg"
     },
     {
+      "GameId": "GrandTheftAutoV-2015",
+      "Name": "Grand Theft Auto V",
+      "ReleaseDate": "2015-04-14T00:00:00",
+      "SteamId": 271590,
+      "Pattern": "**\\Grand Theft Auto V\\GTA5.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg"
+    },
+    {
       "GameId": "Hades-2020",
       "Name": "Hades",
       "ReleaseDate": "2020-09-17T00:00:00",
