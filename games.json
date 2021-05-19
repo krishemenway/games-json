@@ -41,6 +41,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg"
     },
     {
+      "GameId": "Battlefield1-2016",
+      "Name": "Battlefield 1",
+      "ReleaseDate": "2016-10-20T00:00:00",
+      "SteamId": 1238840,
+      "Pattern": "**\\Battlefield 1\\bf1.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238840/325c78f6940b57a43b65468d2dc10e22601b0ec5.jpg"
+    },
+    {
       "GameId": "BattlefieldV-2018",
       "Name": "Battlefield V",
       "ReleaseDate": "2018-11-20T00:00:00",
