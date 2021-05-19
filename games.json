@@ -401,6 +401,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555160/7f7541a996d5a5858927ca260aa72616230c6d58.jpg"
     },
     {
+      "GameId": "PistolWhip-2019",
+      "Name": "Pistol Whip",
+      "ReleaseDate": "2019-11-07T00:00:00",
+      "SteamId": 1079800,
+      "Pattern": "**\\Pistol Whip\\Pistol Whip.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1079800/fc086b9c316bd1560883de2f4c2721bbd41a22dd.jpg"
+    },
+    {
       "GameId": "PlanetCoaster-2016",
       "Name": "Planet Coaster",
       "ReleaseDate": "2016-11-17T00:00:00",
