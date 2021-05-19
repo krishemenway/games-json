@@ -249,6 +249,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg"
     },
     {
+      "GameId": "GuardiansVR-2021",
+      "Name": "Guardians VR",
+      "ReleaseDate": "2021-02-26T00:00:00",
+      "SteamId": 1481440,
+      "Pattern": "**\\GuardiansVR\\Guardians.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1481440/97a3b993ed1aaa3751b56d3ec48c19b87f4cbd5d.jpg"
+    },
+    {
       "GameId": "Hades-2020",
       "Name": "Hades",
       "ReleaseDate": "2020-09-17T00:00:00",
