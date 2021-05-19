@@ -521,6 +521,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/244850/f9856a90000d88e9a89441a7381fe9877e91eaca.jpg"
     },
     {
+      "GameId": "SpacePirateTrainer-2019",
+      "Name": "Space Pirate Trainer",
+      "ReleaseDate": "2017-10-12T00:00:00",
+      "SteamId": 418650,
+      "Pattern": "**\\Space Pirate Trainer VR\\SpacePirateVR.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418650/77771ac82d2ca2d4e2e958cacfa7f8092eb216c2.jpg"
+    },
+    {
       "GameId": "Starbound-2016",
       "Name": "Starbound",
       "ReleaseDate": "2016-07-22T00:00:00",
