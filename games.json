@@ -145,6 +145,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/5d4fea110b0e85bd80410c090ba7fe28c20d7b02.jpg"
     },
     {
+      "GameId": "DeadOrAlive6-2019",
+      "Name": "Dead or Alive 6",
+      "ReleaseDate": "2019-03-01T00:00:00",
+      "SteamId": 838380,
+      "Pattern": "**\\Dead or Alive 6\\DOA6.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838380/db88cc33fed2f4cf2a0d2964abb5f67927cfd3be.jpg"
+    },
+    {
       "GameId": "DeadSpace3-2013",
       "Name": "Dead Space 3",
       "ReleaseDate": "2013-02-05T00:00:00",
