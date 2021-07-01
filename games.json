@@ -337,6 +337,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/627270/8ee01e7e4bc3a7f734dfa5fa5c1ebf2da3901556.jpg"
     },
     {
+      "GameId": "ItTakesTwo-2021",
+      "Name": "It Takes Two",
+      "ReleaseDate": "2021-03-26T00:00:00",
+      "SteamId": 1426210,
+      "Pattern": "**\\ItTakesTwo\\Nuts\\Binaries\\Win64\\ItTakesTwo.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/6b15f6d81c4fc52056f4928b363b7fac591a945b.jpg"
+    },
+    {
       "GameId": "JetIsland-2018",
       "Name": "Jet Island",
       "ReleaseDate": "2018-09-21T00:00:00",
