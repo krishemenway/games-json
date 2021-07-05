@@ -665,6 +665,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/105600/858961e95fbf869f136e1770d586e0caefd4cfac.jpg"
     },
     {
+      "GameId": "TheEscapists2-2017",
+      "Name": "The Escapists 2",
+      "ReleaseDate": "2017-08-21T00:00:00",
+      "SteamId": 641990,
+      "Pattern": "**\\The Escapists 2\\TheEscapists2.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/641990/c1d2bb67884d14088b7befc3d442df6eb801cd13.jpg"
+    },
+    {
       "GameId": "Titanfall2-2016",
       "Name": "Titanfall 2",
       "ReleaseDate": "2016-10-28T00:00:00",
