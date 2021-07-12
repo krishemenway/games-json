@@ -41,6 +41,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg"
     },
     {
+      "GameId": "Astroneer-2016",
+      "Name": "Astroneer",
+      "ReleaseDate": "2016-12-16T00:00:00",
+      "SteamId": 361420,
+      "Pattern": "**\\ASTRONEER\\Astro\\Binaries\\Win64\\Astro-Win64-Shipping.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/361420/58b2dfa7da469dcacdc806196f5af0de7a91b03c.jpg"
+    },
+    {
       "GameId": "Battlefield1-2016",
       "Name": "Battlefield 1",
       "ReleaseDate": "2016-10-20T00:00:00",
