@@ -465,6 +465,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555160/7f7541a996d5a5858927ca260aa72616230c6d58.jpg"
     },
     {
+      "GameId": "PinballFX2VR-2016",
+      "Name": "Pinball FX2 VR",
+      "ReleaseDate": "2016-11-29T00:00:00",
+      "SteamId": 547590,
+      "Pattern": "**\\Pinball FX2 VR\\Pinball FX2.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/547590/29eb483b98eeebf3d458c2d8599e629e5bba3768.jpg"
+    },
+    {
       "GameId": "PistolWhip-2019",
       "Name": "Pistol Whip",
       "ReleaseDate": "2019-11-07T00:00:00",
