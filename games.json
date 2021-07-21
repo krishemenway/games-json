@@ -406,7 +406,7 @@
       "ReleaseDate": "2015-07-14T00:00:00",
       "SteamId": null,
       "Pattern": "**\\Minecraft.Windows.exe",
-      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png"
+      "IconUri": ""
     },
     {
       "GameId": "MinecraftJava-2011",
@@ -414,7 +414,7 @@
       "ReleaseDate": "2011-11-18T00:00:00",
       "SteamId": null,
       "Pattern": "**\\Minecraft\\runtime\\java-runtime-alpha\\windows-x64\\java-runtime-alpha\\bin\\javaw.exe",
-      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png"
+      "IconUri": ""
     },
     {
       "GameId": "MortalKombat11-2019",
