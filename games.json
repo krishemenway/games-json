@@ -401,12 +401,20 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127400/1abc85522939efd31f3439302e64f673ba2424a5.jpg"
     },
     {
-      "GameId": "MinecraftBedrock-2017",
+      "GameId": "MinecraftBedrock-2015",
       "Name": "Minecraft (Bedrock)",
-      "ReleaseDate": "2011-08-16T00:00:00",
+      "ReleaseDate": "2015-07-14T00:00:00",
       "SteamId": null,
       "Pattern": "**\\Minecraft.Windows.exe",
-      "IconUri": null
+      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png"
+    },
+    {
+      "GameId": "MinecraftJava-2011",
+      "Name": "Minecraft (Java)",
+      "ReleaseDate": "2011-11-18T00:00:00",
+      "SteamId": null,
+      "Pattern": "**\\Minecraft\\runtime\\java-runtime-alpha\\windows-x64\\java-runtime-alpha\\bin\\javaw.exe",
+      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png"
     },
     {
       "GameId": "MortalKombat11-2019",
