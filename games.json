@@ -593,6 +593,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257420/3f9e66277464a7145cbfe504acbad29477956d69.jpg"
     },
     {
+      "GameId": "ShadowOfWar-2017",
+      "Name": "Middle-earth\u2122: Shadow of War\u2122",
+      "ReleaseDate": "2017-10-10T00:00:00",
+      "SteamId": 356190,
+      "Pattern": "**\\ShadowOfWar\\x64\\ShadowOfWar.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/316c479e5d51d21e15eb8f82338fce82c42c4115.jpg"
+    },
+    {
       "GameId": "SidMeiersPirates-2005",
       "Name": "Sid Meier\u0027s Pirates!",
       "ReleaseDate": "2005-07-11T00:00:00",
