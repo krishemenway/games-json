@@ -625,6 +625,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418650/77771ac82d2ca2d4e2e958cacfa7f8092eb216c2.jpg"
     },
     {
+      "GameId": "Splitgate-2019",
+      "Name": "Splitgate",
+      "ReleaseDate": "2019-05-24T00:00:00",
+      "SteamId": 677620,
+      "Pattern": "**\\Splitgate\\PortalWars\\Binaries\\Win64\\PortalWars-Win64-Shipping.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677620/03e452b180ff77986c3957819bde4c69448a2d0f.jpg"
+    },
+    {
       "GameId": "Starbound-2016",
       "Name": "Starbound",
       "ReleaseDate": "2016-07-22T00:00:00",
