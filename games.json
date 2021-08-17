@@ -353,6 +353,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/6b15f6d81c4fc52056f4928b363b7fac591a945b.jpg"
     },
     {
+      "GameId": "JediFallenOrder-2019",
+      "Name": "Star Wars Jedi: Fallen Order",
+      "ReleaseDate": "2019-11-15T00:00:00",
+      "SteamId": 1172380,
+      "Pattern": "**\\Jedi Fallen Order\\SwGame\\Binaries\\Win64\\starwarsjedifallenorder.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172380/0ea1d285a8ee6fbeef0e8f7f3b2d7fa4cbcb423b.jpg"
+    },
+    {
       "GameId": "JetIsland-2018",
       "Name": "Jet Island",
       "ReleaseDate": "2018-09-21T00:00:00",
