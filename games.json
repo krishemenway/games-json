@@ -49,6 +49,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/361420/58b2dfa7da469dcacdc806196f5af0de7a91b03c.jpg"
     },
     {
+      "GameId": "Back4Blood-2021",
+      "Name": "Back 4 Blood",
+      "ReleaseDate": "2021-10-12T00:00:00",
+      "SteamId": 924970,
+      "Pattern": "**\\Gobi\\Binaries\\Win64\\Back4Blood.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/4a2e853e7098bb0ebe637107e8180084a3117184.jpg"
+    },
+    {
       "GameId": "Battlefield1-2016",
       "Name": "Battlefield 1",
       "ReleaseDate": "2016-10-20T00:00:00",
