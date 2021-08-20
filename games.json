@@ -217,7 +217,15 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/427520/267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d.jpg"
     },
     {
-      "GameId": "FalloutNewVegas-2017",
+      "GameId": "Fallout4-2015",
+      "Name": "Fallout 4",
+      "ReleaseDate": "2015-11-10T00:00:00",
+      "SteamId": 377160,
+      "Pattern": "**\\Fallout 4\\Fallout4.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/377160/779c4356ebe32af2af7c9f0bbba595dfe872cd7f.jpg"
+    },
+    {
+      "GameId": "FalloutNewVegas-2010",
       "Name": "Fallout: New Vegas",
       "ReleaseDate": "2010-10-19T00:00:00",
       "SteamId": 22380,
