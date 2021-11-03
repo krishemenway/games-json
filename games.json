@@ -565,7 +565,7 @@
       "Name": "Rocket League",
       "ReleaseDate": "2015-07-07T00:00:00",
       "SteamId": 252950,
-      "Pattern": "**\\rocketleague\\Binaries\\RocketLeague.exe",
+      "Pattern": "**\\rocketleague\\Binaries\\**\\RocketLeague.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252950/9ad6dd3d173523354385955b5fb2af87639c4163.jpg"
     },
     {
