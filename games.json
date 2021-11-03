@@ -473,6 +473,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/ec431ecb2a5178c5a01bb15550f112f93af029bb.jpg"
     },
     {
+      "GameId": "Noita-2020",
+      "Name": "Noita",
+      "ReleaseDate": "2020-10-15T00:00:00",
+      "SteamId": 881100,
+      "Pattern": "**\\Noita\\noita.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/a21dbd1d3bd01f0a688f2d7029978d5cdbe14e74.jpg"
+    },
+    {
       "GameId": "NoMansSky-2016",
       "Name": "No Man\u0027s Sky",
       "ReleaseDate": "2016-08-09T00:00:00",
