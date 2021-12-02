@@ -289,6 +289,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg"
     },
     {
+      "GameId": "GuardiansOfTheGalaxy-2021",
+      "Name": "Marvel\u0027s Guardians of the Galaxy",
+      "ReleaseDate": "2021-10-26T00:00:00",
+      "SteamId": 1088850,
+      "Pattern": "**\\Marvel\u0027s Guardians of the Galaxy\\bin\\gotg.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1088850/8aec558b5e9c3aa185869d438f78200a2d4bf885.jpg"
+    },
+    {
       "GameId": "GuardiansVR-2021",
       "Name": "Guardians VR",
       "ReleaseDate": "2021-02-26T00:00:00",
