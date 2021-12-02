@@ -305,6 +305,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1481440/97a3b993ed1aaa3751b56d3ec48c19b87f4cbd5d.jpg"
     },
     {
+      "GameId": "GunfireReborn-2021",
+      "Name": "Gunfire Reborn",
+      "ReleaseDate": "2021-11-18T00:00:00",
+      "SteamId": 1217060,
+      "Pattern": "**\\Gunfire Reborn\\Gunfire Reborn.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1217060/446d10e4c62466203a4c60e3416d4307048710b8.jpg"
+    },
+    {
       "GameId": "Hades-2020",
       "Name": "Hades",
       "ReleaseDate": "2020-09-17T00:00:00",
