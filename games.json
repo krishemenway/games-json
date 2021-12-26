@@ -761,6 +761,14 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/641990/c1d2bb67884d14088b7befc3d442df6eb801cd13.jpg"
     },
     {
+      "GameId": "Timberborn-2021",
+      "Name": "Timberborn",
+      "ReleaseDate": "2021-09-15T00:00:00",
+      "SteamId": 1062090,
+      "Pattern": "**\\Timberborn\\Timberborn.exe",
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1062090/a4863a01d88f18c948a712bfe90234ece672ca83.jpg"
+    },
+    {
       "GameId": "Titanfall2-2016",
       "Name": "Titanfall 2",
       "ReleaseDate": "2016-10-28T00:00:00",
