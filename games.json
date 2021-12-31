@@ -165,7 +165,7 @@
       "Name": "Days Gone",
       "ReleaseDate": "2021-05-18T00:00:00",
       "SteamId": 1259420,
-      "Pattern": "**\\Days Gone\\BendGame\\Binaries\\Win64\\DaysGone.exe ",
+      "Pattern": "**\\Days Gone\\BendGame\\Binaries\\Win64\\DaysGone.exe",
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1259420/839338fcedd1033ab7f0d2a31c194fb880ebf7b5.jpg"
     },
     {
