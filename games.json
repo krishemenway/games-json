@@ -5,7 +5,7 @@
       "Name": "20XX",
       "ReleaseDate": "2014-11-25T00:00:00",
       "SteamId": 322110,
-      "Pattern": "**\\20XX\\20XX.exe",
+      "MatchExecutablePatterns": ["**\\20XX\\20XX.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322110/95ac6fcd59b9f68e37ecce346a48ad975eedc2ec.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "Name": "30XX",
       "ReleaseDate": "2021-02-17T00:00:00",
       "SteamId": 1029210,
-      "Pattern": "**\\30XX\\30XX.exe",
+      "MatchExecutablePatterns": ["**\\30XX\\30XX.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1029210/86fdcee24b903f651245ffa0a4e08f6f6866dbcd.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "Name": "7 Days to Die",
       "ReleaseDate": "2013-12-13T00:00:00",
       "SteamId": 251570,
-      "Pattern": "**\\7 Days To Die\\UnityCrashHandler64.exe",
+      "MatchExecutablePatterns": ["**\\7 Days To Die\\UnityCrashHandler64.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "Name": "Assassin\u0027s Creed IV Black Flag",
       "ReleaseDate": "2013-11-19T00:00:00",
       "SteamId": 242050,
-      "Pattern": "**\\Assassin\u0027s Creed IV Black Flag\\AC4BFSP.exe",
+      "MatchExecutablePatterns": ["**\\Assassin\u0027s Creed IV Black Flag\\AC4BFSP.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/242050/a03c06290af00eed66814815663b68f5fd063882.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "Name": "Assassin\u0027s Creed Odyssey",
       "ReleaseDate": "2018-10-05T00:00:00",
       "SteamId": 812140,
-      "Pattern": "**\\Assassins Creed Odyssey\\ACOdyssey.exe",
+      "MatchExecutablePatterns": ["**\\Assassins Creed Odyssey\\ACOdyssey.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "Name": "Astroneer",
       "ReleaseDate": "2016-12-16T00:00:00",
       "SteamId": 361420,
-      "Pattern": "**\\ASTRONEER\\Astro\\Binaries\\Win64\\Astro-Win64-Shipping.exe",
+      "MatchExecutablePatterns": ["**\\ASTRONEER\\Astro\\Binaries\\Win64\\Astro-Win64-Shipping.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/361420/58b2dfa7da469dcacdc806196f5af0de7a91b03c.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "Name": "Back 4 Blood",
       "ReleaseDate": "2021-10-12T00:00:00",
       "SteamId": 924970,
-      "Pattern": "**\\Gobi\\Binaries\\Win64\\Back4Blood.exe",
+      "MatchExecutablePatterns": ["**\\Gobi\\Binaries\\Win64\\Back4Blood.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/4a2e853e7098bb0ebe637107e8180084a3117184.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "Name": "Battlefield 1",
       "ReleaseDate": "2016-10-20T00:00:00",
       "SteamId": 1238840,
-      "Pattern": "**\\Battlefield 1\\bf1.exe",
+      "MatchExecutablePatterns": ["**\\Battlefield 1\\bf1.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238840/325c78f6940b57a43b65468d2dc10e22601b0ec5.jpg"
     },
     {
@@ -69,7 +69,7 @@
       "Name": "Battlefield 4",
       "ReleaseDate": "2013-10-29T00:00:00",
       "SteamId": 1238860,
-      "Pattern": "**\\Battlefield 4\\bf4.exe",
+      "MatchExecutablePatterns": ["**\\Battlefield 4\\bf4.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238860/fe0bd4bd2adde978ca411a4b2725c1b6d72717ef.jpg"
     },
     {
@@ -77,7 +77,7 @@
       "Name": "Battlefield V",
       "ReleaseDate": "2018-11-20T00:00:00",
       "SteamId": 1238810,
-      "Pattern": "**\\Battlefield V\\bfv.exe",
+      "MatchExecutablePatterns": ["**\\Battlefield V\\bfv.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238810/23ded6a957b5ec7525679c2e7bdac90c0653dbc8.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "Name": "Battletoads",
       "ReleaseDate": "2020-08-20T00:00:00",
       "SteamId": 1244950,
-      "Pattern": "**\\Battletoads\\Battletoads.exe",
+      "MatchExecutablePatterns": ["**\\Battletoads\\Battletoads.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1244950/348511be16b9fc6713c34fc120907a5d650594f7.jpg"
     },
     {
@@ -93,7 +93,7 @@
       "Name": "Battlezone Gold Edition",
       "ReleaseDate": "2017-05-11T00:00:00",
       "SteamId": 312650,
-      "Pattern": "**\\Battlezone\\bin\\Battlezone_DX12.exe",
+      "MatchExecutablePatterns": ["**\\Battlezone\\bin\\Battlezone_DX12.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312650/407a43369888b47dcf44c1c44a3b2674258e46a0.jpg"
     },
     {
@@ -101,7 +101,7 @@
       "Name": "Beat Saber",
       "ReleaseDate": "2018-05-01T00:00:00",
       "SteamId": 620980,
-      "Pattern": "**\\Beat Saber\\Beat Saber.exe",
+      "MatchExecutablePatterns": ["**\\Beat Saber\\Beat Saber.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620980/d2922f271fca9579ecdcc07408cee13d87ca4148.jpg"
     },
     {
@@ -109,7 +109,7 @@
       "Name": "Blade and Sorcery",
       "ReleaseDate": "2018-12-11T00:00:00",
       "SteamId": 629730,
-      "Pattern": "**\\Blade \u0026 Sorcery\\BladeAndSorcery.exe",
+      "MatchExecutablePatterns": ["**\\Blade \u0026 Sorcery\\BladeAndSorcery.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/629730/3a01fc72a16d06a538330e11cae7ed87bf0d40e5.jpg"
     },
     {
@@ -117,7 +117,7 @@
       "Name": "Borderlands 2",
       "ReleaseDate": "2012-09-18T00:00:00",
       "SteamId": 49520,
-      "Pattern": "**\\Binaries\\Borderlands2.exe",
+      "MatchExecutablePatterns": ["**\\Binaries\\Borderlands2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/49520/a3f4945226e69b6196074df4c776e342d3e5a3be.jpg"
     },
     {
@@ -125,7 +125,7 @@
       "Name": "Borderlands 3",
       "ReleaseDate": "2019-09-13T00:00:00",
       "SteamId": 397540,
-      "Pattern": "**\\OakGame\\Binaries\\Win64\\Borderlands3.exe",
+      "MatchExecutablePatterns": ["**\\OakGame\\Binaries\\Win64\\Borderlands3.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397540/de28bd508174ea49c8a232351f8cfef69c6d1639.jpg"
     },
     {
@@ -133,7 +133,7 @@
       "Name": "Castle Crashers",
       "ReleaseDate": "2012-09-26T00:00:00",
       "SteamId": 204360,
-      "Pattern": "**\\CastleCrashers\\castle.exe",
+      "MatchExecutablePatterns": ["**\\CastleCrashers\\castle.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/204360/9b7625f9b70f103397fd0416fd92abb583db8659.jpg"
     },
     {
@@ -141,7 +141,7 @@
       "Name": "Charlie Murder",
       "ReleaseDate": "2017-05-12T00:00:00",
       "SteamId": 405290,
-      "Pattern": "**\\Charlie Murder\\CharlieMurder.exe",
+      "MatchExecutablePatterns": ["**\\Charlie Murder\\CharlieMurder.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/405290/bebc0673b682df4222da5d8ea2f0cdeb4cefe29f.jpg"
     },
     {
@@ -149,7 +149,7 @@
       "Name": "Children of Morta",
       "ReleaseDate": "2019-09-03T00:00:00",
       "SteamId": 330020,
-      "Pattern": "**\\ChildrenOfMorta\\ChildrenOfMorta.exe",
+      "MatchExecutablePatterns": ["**\\ChildrenOfMorta\\ChildrenOfMorta.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b.jpg"
     },
     {
@@ -157,7 +157,7 @@
       "Name": "Cyberpunk 2077",
       "ReleaseDate": "2020-12-10T00:00:00",
       "SteamId": 1091500,
-      "Pattern": "**\\Cyberpunk 2077\\bin\\x64\\Cyberpunk2077.exe",
+      "MatchExecutablePatterns": ["**\\Cyberpunk 2077\\bin\\x64\\Cyberpunk2077.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/5d4fea110b0e85bd80410c090ba7fe28c20d7b02.jpg"
     },
     {
@@ -165,7 +165,7 @@
       "Name": "Days Gone",
       "ReleaseDate": "2021-05-18T00:00:00",
       "SteamId": 1259420,
-      "Pattern": "**\\Days Gone\\BendGame\\Binaries\\Win64\\DaysGone.exe",
+      "MatchExecutablePatterns": ["**\\Days Gone\\BendGame\\Binaries\\Win64\\DaysGone.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1259420/839338fcedd1033ab7f0d2a31c194fb880ebf7b5.jpg"
     },
     {
@@ -173,7 +173,7 @@
       "Name": "Dead or Alive 6",
       "ReleaseDate": "2019-03-01T00:00:00",
       "SteamId": 838380,
-      "Pattern": "**\\Dead or Alive 6\\DOA6.exe",
+      "MatchExecutablePatterns": ["**\\Dead or Alive 6\\DOA6.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838380/db88cc33fed2f4cf2a0d2964abb5f67927cfd3be.jpg"
     },
     {
@@ -181,7 +181,7 @@
       "Name": "Dead Space 3",
       "ReleaseDate": "2013-02-05T00:00:00",
       "SteamId": 1238060,
-      "Pattern": "**\\Dead Space 3\\deadspace3.exe",
+      "MatchExecutablePatterns": ["**\\Dead Space 3\\deadspace3.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238060/22294a53f3376c8f8ad0c8ecea1bfd11a2559258.jpg"
     },
     {
@@ -189,7 +189,7 @@
       "Name": "Deep Rock Galactic",
       "ReleaseDate": "2018-02-28T00:00:00",
       "SteamId": 548430,
-      "Pattern": "**\\Deep Rock Galactic\\FSD.exe",
+      "MatchExecutablePatterns": ["**\\Deep Rock Galactic\\FSD.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548430/e033e23c29a192a17c16a7645a2b423ac64ff447.jpg"
     },
     {
@@ -197,7 +197,7 @@
       "Name": "Dying Light",
       "ReleaseDate": "2015-01-27T00:00:00",
       "SteamId": 239140,
-      "Pattern": "**\\Dying Light\\DyingLightGame.exe",
+      "MatchExecutablePatterns": ["**\\Dying Light\\DyingLightGame.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239140/d6eafb4fab916ac475bf67054332dd1c0659f8d6.jpg"
     },
     {
@@ -205,7 +205,7 @@
       "Name": "Elite Dangerous",
       "ReleaseDate": "2014-12-16T00:00:00",
       "SteamId": 359320,
-      "Pattern": "**\\Elite Dangerous\\Products\\elite-dangerous-64\\EliteDangerous64.exe",
+      "MatchExecutablePatterns": ["**\\Elite Dangerous\\Products\\elite-dangerous-64\\EliteDangerous64.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359320/670f2f289a180f7ac291585df847009640ebf1c5.jpg"
     },
     {
@@ -213,7 +213,7 @@
       "Name": "Evil Genius 2",
       "ReleaseDate": "2021-03-30T00:00:00",
       "SteamId": 700600,
-      "Pattern": "**\\Evil Genius 2\\bin\\evilgenius_dx12.exe",
+      "MatchExecutablePatterns": ["**\\Evil Genius 2\\bin\\evilgenius_dx12.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/700600/6e3a47f954ce03d7aa2946a5de32ec5719935bde.jpg"
     },
     {
@@ -221,7 +221,7 @@
       "Name": "Factorio",
       "ReleaseDate": "2016-02-21T00:00:00",
       "SteamId": 427520,
-      "Pattern": "**\\Factorio\\bin\\x64\\Factorio.exe",
+      "MatchExecutablePatterns": ["**\\Factorio\\bin\\x64\\Factorio.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/427520/267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d.jpg"
     },
     {
@@ -229,7 +229,7 @@
       "Name": "Fallout 4",
       "ReleaseDate": "2015-11-10T00:00:00",
       "SteamId": 377160,
-      "Pattern": "**\\Fallout 4\\Fallout4.exe",
+      "MatchExecutablePatterns": ["**\\Fallout 4\\Fallout4.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/377160/779c4356ebe32af2af7c9f0bbba595dfe872cd7f.jpg"
     },
     {
@@ -237,7 +237,7 @@
       "Name": "Fallout: New Vegas",
       "ReleaseDate": "2010-10-19T00:00:00",
       "SteamId": 22380,
-      "Pattern": "**\\Fallout New Vegas\\FalloutNV.exe",
+      "MatchExecutablePatterns": ["**\\Fallout New Vegas\\FalloutNV.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/22380/1711fd8c46d739feec76bd4a64eaeeca5b87e3a7.jpg"
     },
     {
@@ -245,7 +245,7 @@
       "Name": "Final Fantasy 7",
       "ReleaseDate": "1997-01-31T00:00:00",
       "SteamId": 39140,
-      "Pattern": "**\\FINAL FANTASY VII\\FF7_EN.exe",
+      "MatchExecutablePatterns": ["**\\FINAL FANTASY VII\\FF7_EN.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/39140/dc89ce8f07d5ec36a5617a66fe16e3541d2cc172.jpg"
     },
     {
@@ -253,7 +253,7 @@
       "Name": "Final Fantasy X-2",
       "ReleaseDate": "2001-07-19T00:00:00",
       "SteamId": 359870,
-      "Pattern": "**\\FINAL FANTASY FFX\u0026FFX-2 HD Remaster\\FFX-2.exe",
+      "MatchExecutablePatterns": ["**\\FINAL FANTASY FFX\u0026FFX-2 HD Remaster\\FFX-2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359870/86616d56239e83099e90940c8c9424489aee2ceb.jpg"
     },
     {
@@ -261,7 +261,7 @@
       "Name": "Fortnite",
       "ReleaseDate": "2017-09-26T00:00:00",
       "SteamId": null,
-      "Pattern": "**\\FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping.exe",
+      "MatchExecutablePatterns": ["**\\FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping.exe"],
       "IconUri": "https://raw.githubusercontent.com/krishemenway/games-json/master/games/Fortnite-2017/Icon32.png"
     },
     {
@@ -269,7 +269,7 @@
       "Name": "Gauntlet",
       "ReleaseDate": "2014-09-23T00:00:00",
       "SteamId": 258970,
-      "Pattern": "**\\Gauntlet\\binaries\\gauntlet.exe",
+      "MatchExecutablePatterns": ["**\\Gauntlet\\binaries\\gauntlet.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/258970/183038d531a8cde7ac6aec03ca9bce7c49d4ca2e.jpg"
     },
     {
@@ -277,7 +277,7 @@
       "Name": "Ghostbusters: The Video Game",
       "ReleaseDate": "2009-06-16T00:00:00",
       "SteamId": 1449280,
-      "Pattern": "**\\Ghostbusters The Video Game Remastered\\ghost.exe",
+      "MatchExecutablePatterns": ["**\\Ghostbusters The Video Game Remastered\\ghost.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449280/c9ebd94acf66096fb786467017534f00f5705b60.jpg"
     },
     {
@@ -285,7 +285,7 @@
       "Name": "Tom Clancy\u0027s Ghost Recon\u00AE Wildlands",
       "ReleaseDate": "2017-03-07T00:00:00",
       "SteamId": 460930,
-      "Pattern": "**\\Wildlands\\GRW.exe",
+      "MatchExecutablePatterns": ["**\\Wildlands\\GRW.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/ddd459159befc6a8cd6c4cb0e2a13c2fd2f8b065.jpg"
     },
     {
@@ -293,7 +293,7 @@
       "Name": "Grand Theft Auto V",
       "ReleaseDate": "2015-04-14T00:00:00",
       "SteamId": 271590,
-      "Pattern": "**\\Grand Theft Auto V\\GTA5.exe",
+      "MatchExecutablePatterns": ["**\\Grand Theft Auto V\\GTA5.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg"
     },
     {
@@ -301,7 +301,7 @@
       "Name": "Marvel\u0027s Guardians of the Galaxy",
       "ReleaseDate": "2021-10-26T00:00:00",
       "SteamId": 1088850,
-      "Pattern": "**\\Marvel\u0027s Guardians of the Galaxy\\bin\\gotg.exe",
+      "MatchExecutablePatterns": ["**\\Marvel\u0027s Guardians of the Galaxy\\bin\\gotg.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1088850/8aec558b5e9c3aa185869d438f78200a2d4bf885.jpg"
     },
     {
@@ -309,7 +309,7 @@
       "Name": "Guardians VR",
       "ReleaseDate": "2021-02-26T00:00:00",
       "SteamId": 1481440,
-      "Pattern": "**\\GuardiansVR\\Guardians.exe",
+      "MatchExecutablePatterns": ["**\\GuardiansVR\\Guardians.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1481440/97a3b993ed1aaa3751b56d3ec48c19b87f4cbd5d.jpg"
     },
     {
@@ -317,7 +317,7 @@
       "Name": "Gunfire Reborn",
       "ReleaseDate": "2021-11-18T00:00:00",
       "SteamId": 1217060,
-      "Pattern": "**\\Gunfire Reborn\\Gunfire Reborn.exe",
+      "MatchExecutablePatterns": ["**\\Gunfire Reborn\\Gunfire Reborn.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1217060/446d10e4c62466203a4c60e3416d4307048710b8.jpg"
     },
     {
@@ -325,7 +325,7 @@
       "Name": "Hades",
       "ReleaseDate": "2020-09-17T00:00:00",
       "SteamId": 1145360,
-      "Pattern": "**\\Hades\\x64\\Hades.exe",
+      "MatchExecutablePatterns": ["**\\Hades\\x64\\Hades.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145360/8a3fca36a00883e8066263ad35dd15d77a1f9abc.jpg"
     },
     {
@@ -333,7 +333,7 @@
       "Name": "Half-Life: Alyx",
       "ReleaseDate": "2020-03-23T00:00:00",
       "SteamId": 546560,
-      "Pattern": "**\\Heat Signature\\Heat_Signature.exe",
+      "MatchExecutablePatterns": ["**\\Heat Signature\\Heat_Signature.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/225032ac2ad1aca8f5fd98baa2b9daf1eebea5ca.jpg"
     },
     {
@@ -341,7 +341,7 @@
       "Name": "Halo: The Master Chief Collection",
       "ReleaseDate": "2019-12-03T00:00:00",
       "SteamId": 976730,
-      "Pattern": "**\\Halo The Master Chief Collection\\mcclauncher.exe",
+      "MatchExecutablePatterns": ["**\\Halo The Master Chief Collection\\mcclauncher.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976730/196a45d8df1981ff6b6b1872a38dc38f6c22875d.jpg"
     },
     {
@@ -349,7 +349,7 @@
       "Name": "Heat Signature",
       "ReleaseDate": "2017-09-21T00:00:00",
       "SteamId": 268130,
-      "Pattern": "**\\Half-Life Alyx\\game\\bin\\win64\\hlvr.exe",
+      "MatchExecutablePatterns": ["**\\Half-Life Alyx\\game\\bin\\win64\\hlvr.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268130/186897aa47f73520e6f5e2bd5ca3664360856aa3.jpg"
     },
     {
@@ -357,7 +357,7 @@
       "Name": "Heave Ho",
       "ReleaseDate": "2019-08-29T00:00:00",
       "SteamId": 905340,
-      "Pattern": "**\\Heave Ho\\HeaveHo.exe",
+      "MatchExecutablePatterns": ["**\\Heave Ho\\HeaveHo.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905340/40c4305497de0d0ea540632e82dac34987354be8.jpg"
     },
     {
@@ -365,7 +365,7 @@
       "Name": "Hot Lava",
       "ReleaseDate": "2019-09-19T00:00:00",
       "SteamId": 382560,
-      "Pattern": "**\\Hot Lava\\archive\\build\\hotlava.exe",
+      "MatchExecutablePatterns": ["**\\Hot Lava\\archive\\build\\hotlava.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/382560/55cbb9e4676d16ce030bfb8d317d253d25194939.jpg"
     },
     {
@@ -373,7 +373,7 @@
       "Name": "Hypercharge: Unboxed",
       "ReleaseDate": "2020-01-31T00:00:00",
       "SteamId": 523660,
-      "Pattern": "**\\HYPERCHARGE Unboxed\\Unboxed.exe",
+      "MatchExecutablePatterns": ["**\\HYPERCHARGE Unboxed\\Unboxed.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/523660/8be12b71dd6a65dc31faf3f96fde171d412854db.jpg"
     },
     {
@@ -381,7 +381,7 @@
       "Name": "Injustice 2",
       "ReleaseDate": "2017-11-30T00:00:00",
       "SteamId": 627270,
-      "Pattern": "**\\Injustice2\\Binaries\\Retail\\Injustice2.exe",
+      "MatchExecutablePatterns": ["**\\Injustice2\\Binaries\\Retail\\Injustice2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/627270/8ee01e7e4bc3a7f734dfa5fa5c1ebf2da3901556.jpg"
     },
     {
@@ -389,7 +389,7 @@
       "Name": "It Takes Two",
       "ReleaseDate": "2021-03-26T00:00:00",
       "SteamId": 1426210,
-      "Pattern": "**\\ItTakesTwo\\Nuts\\Binaries\\Win64\\ItTakesTwo.exe",
+      "MatchExecutablePatterns": ["**\\ItTakesTwo\\Nuts\\Binaries\\Win64\\ItTakesTwo.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/6b15f6d81c4fc52056f4928b363b7fac591a945b.jpg"
     },
     {
@@ -397,7 +397,7 @@
       "Name": "Star Wars Jedi: Fallen Order",
       "ReleaseDate": "2019-11-15T00:00:00",
       "SteamId": 1172380,
-      "Pattern": "**\\Jedi Fallen Order\\SwGame\\Binaries\\Win64\\starwarsjedifallenorder.exe",
+      "MatchExecutablePatterns": ["**\\Jedi Fallen Order\\SwGame\\Binaries\\Win64\\starwarsjedifallenorder.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172380/0ea1d285a8ee6fbeef0e8f7f3b2d7fa4cbcb423b.jpg"
     },
     {
@@ -405,7 +405,7 @@
       "Name": "Jet Island",
       "ReleaseDate": "2018-09-21T00:00:00",
       "SteamId": 587220,
-      "Pattern": "**\\Jet Island\\JetIsland.exe",
+      "MatchExecutablePatterns": ["**\\Jet Island\\JetIsland.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/587220/1b15f20a02c87206ea30968782ecc6ba5b8cbc57.jpg"
     },
     {
@@ -413,7 +413,7 @@
       "Name": "Killing Floor 2",
       "ReleaseDate": "2016-11-18T00:00:00",
       "SteamId": 232090,
-      "Pattern": "**\\killingfloor2\\Binaries\\Win64\\KFGame.exe",
+      "MatchExecutablePatterns": ["**\\killingfloor2\\Binaries\\Win64\\KFGame.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/232090/15837cefb378766e9916548f8591b6eb490b9e52.jpg"
     },
     {
@@ -421,7 +421,7 @@
       "Name": "Knockout League - Arcade VR Boxing",
       "ReleaseDate": "2018-02-13T00:00:00",
       "SteamId": 488920,
-      "Pattern": "**\\Knockout\\Knockout.exe",
+      "MatchExecutablePatterns": ["**\\Knockout\\Knockout.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/488920/c7adcb4e3450762eb60ed3c366e338b1f01e2f68.jpg"
     },
     {
@@ -429,7 +429,7 @@
       "Name": "Lethal League Blaze",
       "ReleaseDate": "2018-10-24T00:00:00",
       "SteamId": 553310,
-      "Pattern": "**\\LLBlaze\\LLBlaze.exe",
+      "MatchExecutablePatterns": ["**\\LLBlaze\\LLBlaze.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553310/6288b5eef47d603f11c1551b2c77913fd7f89d77.jpg"
     },
     {
@@ -437,7 +437,7 @@
       "Name": "Metal Gear Solid V: The Phantom Pain",
       "ReleaseDate": "2015-09-01T00:00:00",
       "SteamId": 287700,
-      "Pattern": "**\\MGS_TPP\\mgsvtpp.exe",
+      "MatchExecutablePatterns": ["**\\MGS_TPP\\mgsvtpp.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287700/7a1737163c96ea641143db45709a4ac444ba8f7b.jpg"
     },
     {
@@ -445,7 +445,7 @@
       "Name": "Mindustry",
       "ReleaseDate": "2019-09-26T00:00:00",
       "SteamId": 1127400,
-      "Pattern": "**\\Mindustry\\Mindustry.exe",
+      "MatchExecutablePatterns": ["**\\Mindustry\\Mindustry.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1127400/1abc85522939efd31f3439302e64f673ba2424a5.jpg"
     },
     {
@@ -453,7 +453,7 @@
       "Name": "Minecraft (Bedrock)",
       "ReleaseDate": "2015-07-14T00:00:00",
       "SteamId": null,
-      "Pattern": "**\\Minecraft.Windows.exe",
+      "MatchExecutablePatterns": ["**\\Minecraft.Windows.exe"],
       "IconUri": ""
     },
     {
@@ -461,7 +461,7 @@
       "Name": "Minecraft (Java)",
       "ReleaseDate": "2011-11-18T00:00:00",
       "SteamId": null,
-      "Pattern": "**\\Minecraft\\runtime\\java-runtime-alpha\\windows-x64\\java-runtime-alpha\\bin\\javaw.exe",
+      "MatchExecutablePatterns": ["**\\Minecraft\\runtime\\java-runtime-alpha\\windows-x64\\java-runtime-alpha\\bin\\javaw.exe"],
       "IconUri": ""
     },
     {
@@ -469,7 +469,7 @@
       "Name": "Mortal Kombat 11",
       "ReleaseDate": "2019-04-23T00:00:00",
       "SteamId": 976310,
-      "Pattern": "**\\Mortal Kombat 11\\Binaries\\Retail\\MK11.exe",
+      "MatchExecutablePatterns": ["**\\Mortal Kombat 11\\Binaries\\Retail\\MK11.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976310/315c46ce25bcb6afa47473588b5fd8edeb3afdfa.jpg"
     },
     {
@@ -477,7 +477,7 @@
       "Name": "Mount \u0026 Blade 2: Bannerlord",
       "ReleaseDate": "2020-03-30T00:00:00",
       "SteamId": 261550,
-      "Pattern": "**\\Win64_Shipping_Client\\TaleWorlds.MountAndBlade.Launcher.exe",
+      "MatchExecutablePatterns": ["**\\Win64_Shipping_Client\\TaleWorlds.MountAndBlade.Launcher.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/261550/896d5f4214e4e185a20af51b46d9dea2e6f4aaad.jpg"
     },
     {
@@ -485,7 +485,7 @@
       "Name": "Nebuchadnezzar",
       "ReleaseDate": "2021-02-17T00:00:00",
       "SteamId": 1157220,
-      "Pattern": "**\\nebuchadnezzar\\binary\\win\\nebuchadnezzar.exe",
+      "MatchExecutablePatterns": ["**\\nebuchadnezzar\\binary\\win\\nebuchadnezzar.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1157220/2ae1e989e64337680cebcd878967582c40036e28.jpg"
     },
     {
@@ -493,7 +493,7 @@
       "Name": "NieR:Automata",
       "ReleaseDate": "2017-03-17T00:00:00",
       "SteamId": 524220,
-      "Pattern": "**\\NieRAutomata\\NieRAutomata.exe",
+      "MatchExecutablePatterns": ["**\\NieRAutomata\\NieRAutomata.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/524220/ec431ecb2a5178c5a01bb15550f112f93af029bb.jpg"
     },
     {
@@ -501,7 +501,7 @@
       "Name": "Noita",
       "ReleaseDate": "2020-10-15T00:00:00",
       "SteamId": 881100,
-      "Pattern": "**\\Noita\\noita.exe",
+      "MatchExecutablePatterns": ["**\\Noita\\noita.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881100/a21dbd1d3bd01f0a688f2d7029978d5cdbe14e74.jpg"
     },
     {
@@ -509,7 +509,7 @@
       "Name": "No Man\u0027s Sky",
       "ReleaseDate": "2016-08-09T00:00:00",
       "SteamId": 275850,
-      "Pattern": "**\\No Man\u0027s Sky\\Binaries\\NMS.exe",
+      "MatchExecutablePatterns": ["**\\No Man\u0027s Sky\\Binaries\\NMS.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/275850/fccb20f309ac5ae05b3cb4576a8a3357edf86f2e.jpg"
     },
     {
@@ -517,7 +517,7 @@
       "Name": "Out of Ammo",
       "ReleaseDate": "2016-09-15T00:00:00",
       "SteamId": 451840,
-      "Pattern": "**\\Out of Ammo\\Outofammo.exe",
+      "MatchExecutablePatterns": ["**\\Out of Ammo\\Outofammo.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/451840/b95b7cad187499b370a3bfd41f973212b97b8409.jpg"
     },
     {
@@ -525,7 +525,7 @@
       "Name": "Pavlov VR",
       "ReleaseDate": "2017-02-27T00:00:00",
       "SteamId": 555160,
-      "Pattern": "**\\PavlovVR\\Pavlov.exe",
+      "MatchExecutablePatterns": ["**\\PavlovVR\\Pavlov.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555160/d537afd8696affb4b2294aed07be5e13bcfc5d87.jpg"
     },
     {
@@ -533,7 +533,7 @@
       "Name": "Pinball FX2 VR",
       "ReleaseDate": "2016-11-29T00:00:00",
       "SteamId": 547590,
-      "Pattern": "**\\Pinball FX2 VR\\Pinball FX2.exe",
+      "MatchExecutablePatterns": ["**\\Pinball FX2 VR\\Pinball FX2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/547590/29eb483b98eeebf3d458c2d8599e629e5bba3768.jpg"
     },
     {
@@ -541,7 +541,7 @@
       "Name": "Pistol Whip",
       "ReleaseDate": "2019-11-07T00:00:00",
       "SteamId": 1079800,
-      "Pattern": "**\\Pistol Whip\\Pistol Whip.exe",
+      "MatchExecutablePatterns": ["**\\Pistol Whip\\Pistol Whip.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1079800/fc086b9c316bd1560883de2f4c2721bbd41a22dd.jpg"
     },
     {
@@ -549,7 +549,7 @@
       "Name": "Planet Coaster",
       "ReleaseDate": "2016-11-17T00:00:00",
       "SteamId": 493340,
-      "Pattern": "**\\Planet Coaster\\PlanetCoaster.exe",
+      "MatchExecutablePatterns": ["**\\Planet Coaster\\PlanetCoaster.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493340/1b2f29e743dd3048f21fefd9642d86a5f5123968.jpg"
     },
     {
@@ -557,7 +557,7 @@
       "Name": "Prey",
       "ReleaseDate": "2017-05-05T00:00:00",
       "SteamId": 480490,
-      "Pattern": "**\\Prey\\Binaries\\Danielle\\x64\\Release\\Prey.exe",
+      "MatchExecutablePatterns": ["**\\Prey\\Binaries\\Danielle\\x64\\Release\\Prey.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/480490/5ef565e374f039469e4a5c332cd51584af7ec5db.jpg"
     },
     {
@@ -565,7 +565,7 @@
       "Name": "QuiVr",
       "ReleaseDate": "2018-06-18T00:00:00",
       "SteamId": 489380,
-      "Pattern": "**\\QuiVr\\QuiVr.exe",
+      "MatchExecutablePatterns": ["**\\QuiVr\\QuiVr.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/489380/f0f2e8530935ba24c46ae766dc0b2e9d1001c84e.jpg"
     },
     {
@@ -573,7 +573,7 @@
       "Name": "Raft",
       "ReleaseDate": "2018-05-23T00:00:00",
       "SteamId": 648800,
-      "Pattern": "**\\Raft\\Raft.exe",
+      "MatchExecutablePatterns": ["**\\Raft\\Raft.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/648800/6a9ae357c4133b1b631b520edd25b1974f3afb68.jpg"
     },
     {
@@ -581,7 +581,7 @@
       "Name": "Remnant: From the Ashes",
       "ReleaseDate": "2019-08-19T00:00:00",
       "SteamId": 617290,
-      "Pattern": "**\\Remnant\\Remnant.exe",
+      "MatchExecutablePatterns": ["**\\Remnant\\Remnant.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/617290/0fec2d481028011910bf6fc35c61d19386695128.jpg"
     },
     {
@@ -589,7 +589,7 @@
       "Name": "Risk of Rain 2",
       "ReleaseDate": "2019-03-28T00:00:00",
       "SteamId": 632360,
-      "Pattern": "**\\Risk of Rain 2\\Risk of Rain 2.exe",
+      "MatchExecutablePatterns": ["**\\Risk of Rain 2\\Risk of Rain 2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0b809ac6f25e6570fecae5fc47bca0139a7bf70c.jpg"
     },
     {
@@ -597,7 +597,7 @@
       "Name": "Rocket League",
       "ReleaseDate": "2015-07-07T00:00:00",
       "SteamId": 252950,
-      "Pattern": "**\\rocketleague\\Binaries\\**\\RocketLeague.exe",
+      "MatchExecutablePatterns": ["**\\rocketleague\\Binaries\\**\\RocketLeague.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/252950/9ad6dd3d173523354385955b5fb2af87639c4163.jpg"
     },
     {
@@ -605,7 +605,7 @@
       "Name": "Rogue Legacy 2",
       "ReleaseDate": "2020-08-18T00:00:00",
       "SteamId": 1253920,
-      "Pattern": "**\\Rogue Legacy 2\\Rogue Legacy 2.exe",
+      "MatchExecutablePatterns": ["**\\Rogue Legacy 2\\Rogue Legacy 2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/26b5893433c0983aa19ec4403465f7616a46e5cb.jpg"
     },
     {
@@ -613,7 +613,7 @@
       "Name": "Sairento VR",
       "ReleaseDate": "2018-02-06T00:00:00",
       "SteamId": 555880,
-      "Pattern": "**\\Sairento VR\\SairentoVR.exe",
+      "MatchExecutablePatterns": ["**\\Sairento VR\\SairentoVR.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555880/fab01fab8c716b234863975e1473cf9d98039f66.jpg"
     },
     {
@@ -621,7 +621,7 @@
       "Name": "Satisfactory",
       "ReleaseDate": "2019-03-19T00:00:00",
       "SteamId": 526870,
-      "Pattern": "**\\Satisfactory\\FactoryGame.exe",
+      "MatchExecutablePatterns": ["**\\Satisfactory\\FactoryGame.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/526870/ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6.jpg"
     },
     {
@@ -629,7 +629,7 @@
       "Name": "Scrap Mechanic",
       "ReleaseDate": "2016-01-20T00:00:00",
       "SteamId": 387990,
-      "Pattern": "**\\Release\\ScrapMechanic.exe",
+      "MatchExecutablePatterns": ["**\\Release\\ScrapMechanic.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387990/a912301394e90691ef6a1598e971c9b47c1806b5.jpg"
     },
     {
@@ -637,7 +637,7 @@
       "Name": "Sea of Thieves",
       "ReleaseDate": "2018-03-20T00:00:00",
       "SteamId": 1172620,
-      "Pattern": "**\\Sea of Thieves\\Athena\\Binaries\\Win64\\SoTGame.exe",
+      "MatchExecutablePatterns": ["**\\Sea of Thieves\\Athena\\Binaries\\Win64\\SoTGame.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1172620/f95f362708fc326511c5d86566c447ee625bf776.jpg"
     },
     {
@@ -645,7 +645,7 @@
       "Name": "Serious Sam 4",
       "ReleaseDate": "2020-09-24T00:00:00",
       "SteamId": 257420,
-      "Pattern": "**\\Serious Sam 4\\Bin\\x64\\Sam4.exe",
+      "MatchExecutablePatterns": ["**\\Serious Sam 4\\Bin\\x64\\Sam4.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/257420/3f9e66277464a7145cbfe504acbad29477956d69.jpg"
     },
     {
@@ -653,7 +653,7 @@
       "Name": "Middle-earth\u2122: Shadow of War\u2122",
       "ReleaseDate": "2017-10-10T00:00:00",
       "SteamId": 356190,
-      "Pattern": "**\\ShadowOfWar\\x64\\ShadowOfWar.exe",
+      "MatchExecutablePatterns": ["**\\ShadowOfWar\\x64\\ShadowOfWar.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/316c479e5d51d21e15eb8f82338fce82c42c4115.jpg"
     },
     {
@@ -661,7 +661,7 @@
       "Name": "Sid Meier\u0027s Pirates!",
       "ReleaseDate": "2005-07-11T00:00:00",
       "SteamId": 3920,
-      "Pattern": "**\\Sid Meier\u0027s Pirates!\\Pirates!.exe",
+      "MatchExecutablePatterns": ["**\\Sid Meier\u0027s Pirates!\\Pirates!.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920/eeb9384067131b98cd71308aeded180dd9538951.jpg"
     },
     {
@@ -669,7 +669,7 @@
       "Name": "Space Engineers",
       "ReleaseDate": "2013-10-23T00:00:00",
       "SteamId": 244850,
-      "Pattern": "**\\SpaceEngineers\\Bin64\\SpaceEngineers.exe",
+      "MatchExecutablePatterns": ["**\\SpaceEngineers\\Bin64\\SpaceEngineers.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/244850/f9856a90000d88e9a89441a7381fe9877e91eaca.jpg"
     },
     {
@@ -677,7 +677,7 @@
       "Name": "Space Pirate Trainer",
       "ReleaseDate": "2017-10-12T00:00:00",
       "SteamId": 418650,
-      "Pattern": "**\\Space Pirate Trainer VR\\SpacePirateVR.exe",
+      "MatchExecutablePatterns": ["**\\Space Pirate Trainer VR\\SpacePirateVR.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418650/77771ac82d2ca2d4e2e958cacfa7f8092eb216c2.jpg"
     },
     {
@@ -685,7 +685,7 @@
       "Name": "Splitgate",
       "ReleaseDate": "2019-05-24T00:00:00",
       "SteamId": 677620,
-      "Pattern": "**\\Splitgate\\PortalWars\\Binaries\\Win64\\PortalWars-Win64-Shipping.exe",
+      "MatchExecutablePatterns": ["**\\Splitgate\\PortalWars\\Binaries\\Win64\\PortalWars-Win64-Shipping.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677620/03e452b180ff77986c3957819bde4c69448a2d0f.jpg"
     },
     {
@@ -693,7 +693,7 @@
       "Name": "Starbound",
       "ReleaseDate": "2016-07-22T00:00:00",
       "SteamId": 211820,
-      "Pattern": "**\\Starbound\\win64\\starbound.exe",
+      "MatchExecutablePatterns": ["**\\Starbound\\win64\\starbound.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/211820/4dbf4041c33eb2edfc41f552320a2e584519134c.jpg"
     },
     {
@@ -701,7 +701,7 @@
       "Name": "Stardew Valley",
       "ReleaseDate": "2016-02-26T00:00:00",
       "SteamId": 413150,
-      "Pattern": "**\\Stardew Valley\\Stardew Valley.exe",
+      "MatchExecutablePatterns": ["**\\Stardew Valley\\Stardew Valley.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413150/35d1377200084a4034238c05b0c8930451e2fb40.jpg"
     },
     {
@@ -709,7 +709,7 @@
       "Name": "Strange Brigade",
       "ReleaseDate": "2018-08-27T00:00:00",
       "SteamId": 312670,
-      "Pattern": "**\\StrangeBrigade\\bin\\StrangeBrigade_DX12.exe",
+      "MatchExecutablePatterns": ["**\\StrangeBrigade\\bin\\StrangeBrigade_DX12.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/312670/328f1ee6525320b82ad06033da1e0194a9ae0436.jpg"
     },
     {
@@ -717,7 +717,7 @@
       "Name": "Streets of Rage 4",
       "ReleaseDate": "2020-04-30T00:00:00",
       "SteamId": 985890,
-      "Pattern": "**\\Streets of Rage 4\\x64\\SOR4.exe",
+      "MatchExecutablePatterns": ["**\\Streets of Rage 4\\x64\\SOR4.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/985890/befb7c78958bea322edfaa2f87abefaa28d35c37.jpg"
     },
     {
@@ -725,7 +725,7 @@
       "Name": "Streets of Rogue",
       "ReleaseDate": "2017-03-10T00:00:00",
       "SteamId": 512900,
-      "Pattern": "**\\Streets of Rogue\\StreetsOfRogue.exe",
+      "MatchExecutablePatterns": ["**\\Streets of Rogue\\StreetsOfRogue.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/512900/36dad6939749b4ccca0d1e2298b8e79e154b5135.jpg"
     },
     {
@@ -733,7 +733,7 @@
       "Name": "SUPERHOT",
       "ReleaseDate": "2016-02-25T00:00:00",
       "SteamId": 322500,
-      "Pattern": "**\\SUPERHOT\\SH.exe",
+      "MatchExecutablePatterns": ["**\\SUPERHOT\\SH.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/322500/81839f0d50cb3e54c9aa7c69c04916f1e53d8c35.jpg"
     },
     {
@@ -741,7 +741,7 @@
       "Name": "SUPERHOT: MIND CONTROL DELETE",
       "ReleaseDate": "2020-07-16T00:00:00",
       "SteamId": 690040,
-      "Pattern": "**\\SUPERHOTMCD\\SHMCD.exe",
+      "MatchExecutablePatterns": ["**\\SUPERHOTMCD\\SHMCD.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/690040/b559e2f04cd42ef1d8fad23e735516bd7d155d5c.jpg"
     },
     {
@@ -749,7 +749,7 @@
       "Name": "Team Fortress 2",
       "ReleaseDate": "2007-10-10T00:00:00",
       "SteamId": 440,
-      "Pattern": "**\\team fortress 2\\hl2.exe",
+      "MatchExecutablePatterns": ["**\\team fortress 2\\hl2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e3f595a92552da3d664ad00277fad2107345f743.jpg"
     },
     {
@@ -757,7 +757,7 @@
       "Name": "Terraria",
       "ReleaseDate": "2011-05-16T00:00:00",
       "SteamId": 105600,
-      "Pattern": "**\\Terraria\\Terraria.exe",
+      "MatchExecutablePatterns": ["**\\Terraria\\Terraria.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/105600/858961e95fbf869f136e1770d586e0caefd4cfac.jpg"
     },
     {
@@ -765,7 +765,7 @@
       "Name": "The Escapists 2",
       "ReleaseDate": "2017-08-21T00:00:00",
       "SteamId": 641990,
-      "Pattern": "**\\The Escapists 2\\TheEscapists2.exe",
+      "MatchExecutablePatterns": ["**\\The Escapists 2\\TheEscapists2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/641990/c1d2bb67884d14088b7befc3d442df6eb801cd13.jpg"
     },
     {
@@ -773,7 +773,7 @@
       "Name": "Timberborn",
       "ReleaseDate": "2021-09-15T00:00:00",
       "SteamId": 1062090,
-      "Pattern": "**\\Timberborn\\Timberborn.exe",
+      "MatchExecutablePatterns": ["**\\Timberborn\\Timberborn.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1062090/a4863a01d88f18c948a712bfe90234ece672ca83.jpg"
     },
     {
@@ -781,7 +781,7 @@
       "Name": "Titanfall 2",
       "ReleaseDate": "2016-10-28T00:00:00",
       "SteamId": 1237970,
-      "Pattern": "**\\Titanfall2\\Titanfall2.exe",
+      "MatchExecutablePatterns": ["**\\Titanfall2\\Titanfall2.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg"
     },
     {
@@ -789,7 +789,7 @@
       "Name": "Unreal Tournament 2004",
       "ReleaseDate": "2004-03-16T00:00:00",
       "SteamId": 13230,
-      "Pattern": "**\\system\\UT2004.exe",
+      "MatchExecutablePatterns": ["**\\system\\UT2004.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13230/db3782214c4285c254f632b0e803ed341c250c9d.jpg"
     },
     {
@@ -797,7 +797,7 @@
       "Name": "Unreal Tournament 3",
       "ReleaseDate": "2007-11-19T00:00:00",
       "SteamId": 13210,
-      "Pattern": "**\\Unreal Tournament 3\\Binaries\\UT3.exe",
+      "MatchExecutablePatterns": ["**\\Unreal Tournament 3\\Binaries\\UT3.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13210/de312a41b8a0b8fd6e1f0490ab0b44416c53cc61.jpg"
     },
     {
@@ -805,7 +805,7 @@
       "Name": "Valheim",
       "ReleaseDate": "2021-02-02T00:00:00",
       "SteamId": 892970,
-      "Pattern": "**\\Valheim\\valheim.exe",
+      "MatchExecutablePatterns": ["**\\Valheim\\valheim.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/2f64c9a826e2c6cf3253fea4834c2e612db09143.jpg"
     },
     {
@@ -813,7 +813,7 @@
       "Name": "The Walking Dead: Saints \u0026 Sinners",
       "ReleaseDate": "2020-01-23T00:00:00",
       "SteamId": 916840,
-      "Pattern": "**\\TWDSaintsAndSinners\\TWD.exe",
+      "MatchExecutablePatterns": ["**\\TWDSaintsAndSinners\\TWD.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/916840/57379893a3fffc2127d85e9e1ab7201410137566.jpg"
     },
     {
@@ -821,7 +821,7 @@
       "Name": "XCOM: Enemy Unknown",
       "ReleaseDate": "2012-10-08T00:00:00",
       "SteamId": 200510,
-      "Pattern": "**\\XCom-Enemy-Unknown\\Binaries\\Win32\\XComGame.exe",
+      "MatchExecutablePatterns": ["**\\XCom-Enemy-Unknown\\Binaries\\Win32\\XComGame.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/200510/48be2fee1d0d511b5c7313e1359beafd36ea92ed.jpg"
     },
     {
@@ -829,7 +829,7 @@
       "Name": "Zero Caliber VR",
       "ReleaseDate": "2018-11-09T00:00:00",
       "SteamId": 877200,
-      "Pattern": "**\\Zero Caliber VR\\ZeroCaliber.exe",
+      "MatchExecutablePatterns": ["**\\Zero Caliber VR\\ZeroCaliber.exe"],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/877200/569dcff2f3ff7ed7e30b9b58695f2b27b41576a8.jpg"
     }
   ]
