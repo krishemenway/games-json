@@ -361,6 +361,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/460930/ddd459159befc6a8cd6c4cb0e2a13c2fd2f8b065.jpg"
     },
     {
+      "GameId": "GodOfWar-2022",
+      "Name": "God of War",
+      "ReleaseDate": "2022-01-14T00:00:00",
+      "SteamId": 1593500,
+      "MatchExecutablePatterns": [
+        "**\\GodOfWar\\GoW.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/8aa5e7e0e55cad682c7f2e65e075c3bc04dfc1cb.jpg"
+    },
+    {
       "GameId": "GrandTheftAutoV-2015",
       "Name": "Grand Theft Auto V",
       "ReleaseDate": "2015-04-14T00:00:00",
