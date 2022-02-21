@@ -251,6 +251,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/239140/d6eafb4fab916ac475bf67054332dd1c0659f8d6.jpg"
     },
     {
+      "GameId": "DyingLight2-2022",
+      "Name": "Dying Light 2 Stay Human",
+      "ReleaseDate": "2022-02-04T00:00:00",
+      "SteamId": 534380,
+      "MatchExecutablePatterns": [
+        "**\\Dying Light 2\\ph\\work\\bin\\x64\\DyingLightGame_x64_rwdi.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/534380/b34a9326b359af068e758ee8126d4232bfce62c6.jpg"
+    },
+    {
       "GameId": "EliteDangerous-2014",
       "Name": "Elite Dangerous",
       "ReleaseDate": "2014-12-16T00:00:00",
