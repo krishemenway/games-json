@@ -641,6 +641,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1157220/2ae1e989e64337680cebcd878967582c40036e28.jpg"
     },
     {
+      "GameId": "NickelodeonAllStarBrawl-2021",
+      "Name": "Nickelodeon All-Star Brawl",
+      "ReleaseDate": "2021-10-04T00:00:00",
+      "SteamId": 1414850,
+      "MatchExecutablePatterns": [
+        "**\\Nickelodeon All-Star Brawl\\Nickelodeon All-Star Brawl.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1414850/aaa83c64123e020b6ed8033997236ddeef9da3cf.jpg"
+    },
+    {
       "GameId": "NierAutomata-2017",
       "Name": "NieR:Automata",
       "ReleaseDate": "2017-03-17T00:00:00",
