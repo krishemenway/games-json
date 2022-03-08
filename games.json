@@ -471,6 +471,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905340/40c4305497de0d0ea540632e82dac34987354be8.jpg"
     },
     {
+      "GameId": "HerosHour-2022",
+      "Name": "Hero\u0027s Hour",
+      "ReleaseDate": "2022-03-01T00:00:00",
+      "SteamId": 1656780,
+      "MatchExecutablePatterns": [
+        "**\\Hero\u0027s Hour\\Hero\u0027s Hour.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1656780/f454d8cddf1754568ec8c46ba39c734ce432ad37.jpg"
+    },
+    {
       "GameId": "HotLava-2019",
       "Name": "Hot Lava",
       "ReleaseDate": "2019-09-19T00:00:00",
