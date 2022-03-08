@@ -266,7 +266,7 @@
       "ReleaseDate": "2014-12-16T00:00:00",
       "SteamId": 359320,
       "MatchExecutablePatterns": [
-        "**\\Elite Dangerous\\Products\\elite-dangerous-64\\EliteDangerous64.exe"
+        "**\\Elite Dangerous\\Products\\*\\EliteDangerous64.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359320/670f2f289a180f7ac291585df847009640ebf1c5.jpg"
     },
