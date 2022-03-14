@@ -741,6 +741,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/480490/5ef565e374f039469e4a5c332cd51584af7ec5db.jpg"
     },
     {
+      "GameId": "Psychonauts2-2021",
+      "Name": "Psychonauts 2",
+      "ReleaseDate": "2021-08-24T00:00:00",
+      "SteamId": 607080,
+      "MatchExecutablePatterns": [
+        "**\\Psychonauts 2\\Psychonauts2.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/607080/ac07e34abbee5e3bc4a3b50877effe61ee76b0d9.jpg"
+    },
+    {
       "GameId": "QuiVr-2018",
       "Name": "QuiVr",
       "ReleaseDate": "2018-06-18T00:00:00",
