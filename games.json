@@ -436,7 +436,7 @@
       "ReleaseDate": "2020-03-23T00:00:00",
       "SteamId": 546560,
       "MatchExecutablePatterns": [
-        "**\\Heat Signature\\Heat_Signature.exe"
+        "**\\Half-Life Alyx\\game\\bin\\win64\\hlvr.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/546560/225032ac2ad1aca8f5fd98baa2b9daf1eebea5ca.jpg"
     },
@@ -456,7 +456,7 @@
       "ReleaseDate": "2017-09-21T00:00:00",
       "SteamId": 268130,
       "MatchExecutablePatterns": [
-        "**\\Half-Life Alyx\\game\\bin\\win64\\hlvr.exe"
+        "**\\Heat Signature\\Heat_Signature.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268130/186897aa47f73520e6f5e2bd5ca3664360856aa3.jpg"
     },
