@@ -1031,6 +1031,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1237970/d73c7e572859bd7490947d1aeab5c33eda18fd64.jpg"
     },
     {
+      "GameId": "TMNTShreddersRevenge-2022",
+      "Name": "TMNT Shredders Revenge",
+      "ReleaseDate": "2022-06-16T00:00:00",
+      "SteamId": 1361510,
+      "MatchExecutablePatterns": [
+        "**\\TMNT\\TMNT.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1361510/42b5c6566f9141a08a11dc74b8b915c919410d2c.jpg"
+    },
+    {
       "GameId": "UnrealTournament2004-2004",
       "Name": "Unreal Tournament 2004",
       "ReleaseDate": "2004-03-16T00:00:00",
