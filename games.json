@@ -1081,6 +1081,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/b09d9a388f5328ec977f7b45228ac8ae21a78c55.jpg"
     },
     {
+      "GameId": "VRising-2022",
+      "Name": "V Rising",
+      "ReleaseDate": "2022-05-17T00:00:00",
+      "SteamId": 1604030,
+      "MatchExecutablePatterns": [
+        "**\\VRising\\VRising.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1604030/d18204000a839feb84393b3d860c17cd4a4b269c.jpg"
+    },
+    {
       "GameId": "WalkingDeadSaintsAndSinners-2020",
       "Name": "The Walking Dead: Saints \u0026 Sinners",
       "ReleaseDate": "2020-01-23T00:00:00",
