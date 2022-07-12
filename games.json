@@ -771,6 +771,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/648800/6a9ae357c4133b1b631b520edd25b1974f3afb68.jpg"
     },
     {
+      "GameId": "Ragnarock-2021",
+      "Name": "Ragnarock",
+      "ReleaseDate": "2021-07-15T00:00:00",
+      "SteamId": 1345820,
+      "MatchExecutablePatterns": [
+        "**\\Ragnarock\\Ragnarock.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1345820/00759ea1dd35dcd289c1cd893b730757dc3f3c6a.jpg"
+    },
+    {
       "GameId": "RemnantFromTheAshes-2019",
       "Name": "Remnant: From the Ashes",
       "ReleaseDate": "2019-08-19T00:00:00",
