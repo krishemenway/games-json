@@ -1139,6 +1139,16 @@
         "**\\Zero Caliber VR\\ZeroCaliber.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/877200/569dcff2f3ff7ed7e30b9b58695f2b27b41576a8.jpg"
+    },
+    {
+      "GameId": "ZombieTrainingSimulator-2016",
+      "Name": "Zombie Training Simulator",
+      "ReleaseDate": "2016-05-15T00:00:00",
+      "SteamId": 446620,
+      "MatchExecutablePatterns": [
+        "**\\Zombie Training Simulator\\zts.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/446620/33c2a7b853f9200df7acf5f19d8587c14e8c65a1.jpg"
     }
   ]
 }
