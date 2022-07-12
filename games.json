@@ -1011,6 +1011,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/641990/c1d2bb67884d14088b7befc3d442df6eb801cd13.jpg"
     },
     {
+      "GameId": "TheGreatestPenguinHeistOfAllTime-2021",
+      "Name": "The Greatest Penguin Heist of All Time",
+      "ReleaseDate": "2021-07-02T00:00:00",
+      "SteamId": 1451480,
+      "MatchExecutablePatterns": [
+        "**\\The Greatest Penguin Heist of All Time\\Penguin Heist.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1451480/22ef7c32b177bc1ca22d413166b038c04c42de9a.jpg"
+    },
+    {
       "GameId": "Timberborn-2021",
       "Name": "Timberborn",
       "ReleaseDate": "2021-09-15T00:00:00",
