@@ -191,6 +191,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b.jpg"
     },
     {
+      "GameId": "Compound-2022",
+      "Name": "COMPOUND",
+      "ReleaseDate": "2022-07-19T00:00:00",
+      "SteamId": 615120,
+      "MatchExecutablePatterns": [
+        "**\\COMPOUND\\COMPOUND.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/615120/7b625533871746877d59f972ccf401fae5141416.jpg"
+    },
+    {
       "GameId": "Cyberpunk2077-2020",
       "Name": "Cyberpunk 2077",
       "ReleaseDate": "2020-12-10T00:00:00",
