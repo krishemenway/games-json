@@ -641,6 +641,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/261550/896d5f4214e4e185a20af51b46d9dea2e6f4aaad.jpg"
     },
     {
+      "GameId": "MultiVersus-2022",
+      "Name": "MultiVersus",
+      "ReleaseDate": "2022-07-19T00:00:00",
+      "SteamId": 1818750,
+      "MatchExecutablePatterns": [
+        "**\\MultiVersus\\Binaries\\Win64\\MultiVersus-Win64-Shipping.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1818750/b99e0727d4b37c022f33f8f72fada74c5108aac0.jpg"
+    },
+    {
       "GameId": "Nebuchadnezzar-2021",
       "Name": "Nebuchadnezzar",
       "ReleaseDate": "2021-02-17T00:00:00",
