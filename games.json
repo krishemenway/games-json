@@ -161,6 +161,28 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg"
     },
     {
+      "GameId": "CallOfDuty2-2005",
+      "Name": "Call of Duty 2",
+      "ReleaseDate": "2005-10-25T00:00:00",
+      "SteamId": 2630,
+      "MatchExecutablePatterns": [
+        "**\\Call of Duty 2\\CoD2MP_s.exe",
+        "**\\Call of Duty 2\\CoD2SP_s.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2630/2e455daa8702a3cb9da8733232ec330a06936df3.jpg"
+    },
+    {
+      "GameId": "CallOfDutyModernWarfare-2007",
+      "Name": "Call of Duty 4 - Modern Warfare",
+      "ReleaseDate": "2007-11-12T00:00:00",
+      "SteamId": 7940,
+      "MatchExecutablePatterns": [
+        "**\\Call of Duty 4\\iw3mp.exe",
+        "**\\Call of Duty 4\\iw3sp.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/7940/b40c43b0b14b7e124553e0220581a1b9ef8e38bf.jpg"
+    },
+    {
       "GameId": "CastleCrashers-2012",
       "Name": "Castle Crashers",
       "ReleaseDate": "2012-09-26T00:00:00",
