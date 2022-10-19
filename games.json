@@ -983,6 +983,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/211820/4dbf4041c33eb2edfc41f552320a2e584519134c.jpg"
     },
     {
+      "GameId": "StarCraft2-2010",
+      "Name": "StarCraft II",
+      "ReleaseDate": "2010-07-27T00:00:00",
+      "SteamId": null,
+      "MatchExecutablePatterns": [
+        "**\\StarCraft II\\**\\SC2_x64.exe"
+      ],
+      "IconUri": "https://static.starcraft2.com/dist/images/global/logos/img-sc2-nav-icon.png"
+    },
+    {
       "GameId": "StardewValley-2016",
       "Name": "Stardew Valley",
       "ReleaseDate": "2016-02-26T00:00:00",
