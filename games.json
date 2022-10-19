@@ -833,6 +833,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/617290/0fec2d481028011910bf6fc35c61d19386695128.jpg"
     },
     {
+      "GameId": "RiseOfNations-2014",
+      "Name": "Rise of Nations",
+      "ReleaseDate": "2014-06-12T00:00:00",
+      "SteamId": 287450,
+      "MatchExecutablePatterns": [
+        "**\\Rise of Nations\\riseofnations.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/287450/0e142a02add319e32447f957a30fd1d360e62d3e.jpg"
+    },
+    {
       "GameId": "RiskOfRain2-2019",
       "Name": "Risk of Rain 2",
       "ReleaseDate": "2019-03-28T00:00:00",
