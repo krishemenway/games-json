@@ -1103,6 +1103,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1361510/42b5c6566f9141a08a11dc74b8b915c919410d2c.jpg"
     },
     {
+      "GameId": "UnrealTournament-2014",
+      "Name": "Unreal Tournament 4",
+      "ReleaseDate": "2014-08-13T00:00:00",
+      "SteamId": null,
+      "MatchExecutablePatterns": [
+        "**\\Engine\\Binaries\\Win64\\UE4-Win64-Shipping.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/13210/de312a41b8a0b8fd6e1f0490ab0b44416c53cc61.jpg"
+    },
+    {
       "GameId": "UnrealTournament2004-2004",
       "Name": "Unreal Tournament 2004",
       "ReleaseDate": "2004-03-16T00:00:00",
