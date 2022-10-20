@@ -374,6 +374,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359870/86616d56239e83099e90940c8c9424489aee2ceb.jpg"
     },
     {
+      "GameId": "Flatout3-2011",
+      "Name": "Flatout 3: Chaos \u0026 Destruction",
+      "ReleaseDate": "2011-12-13T00:00:00",
+      "SteamId": 201510,
+      "MatchExecutablePatterns": [
+        "**\\Flatout 3\\Flatout.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/201510/6deb786b20d0b2beb1cc201132c634feefddcd4d.jpg"
+    },
+    {
       "GameId": "Fortnite-2017",
       "Name": "Fortnite",
       "ReleaseDate": "2017-09-26T00:00:00",
