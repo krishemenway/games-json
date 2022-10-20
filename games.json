@@ -884,6 +884,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0b809ac6f25e6570fecae5fc47bca0139a7bf70c.jpg"
     },
     {
+      "GameId": "RoadRedemption-2019",
+      "Name": "Road Redemption",
+      "ReleaseDate": "2019-10-07T00:00:00",
+      "SteamId": 300380,
+      "MatchExecutablePatterns": [
+        "**\\RoadRedemption\\RoadRedemption.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/300380/d2f9a5b4ce0e9d465a20acc5fec2e10f599f11d5.jpg"
+    },
+    {
       "GameId": "RocketLeague-2015",
       "Name": "Rocket League",
       "ReleaseDate": "2015-07-07T00:00:00",
