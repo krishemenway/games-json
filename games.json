@@ -434,6 +434,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/8aa5e7e0e55cad682c7f2e65e075c3bc04dfc1cb.jpg"
     },
     {
+      "GameId": "GrandTheftAuto-1998",
+      "Name": "Grand Theft Auto",
+      "ReleaseDate": "1998-06-30T00:00:00",
+      "SteamId": 12170,
+      "MatchExecutablePatterns": [
+        "**\\Grand Theft Auto\\WINO\\Grand Theft Auto.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12170/05170ada07df182d63e1f341b4e97e49a6749db5.jpg"
+    },
+    {
       "GameId": "GrandTheftAutoV-2015",
       "Name": "Grand Theft Auto V",
       "ReleaseDate": "2015-04-14T00:00:00",
