@@ -31,6 +31,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg"
     },
     {
+      "GameId": "ActOfAggression-2015",
+      "Name": "Act Of Aggression",
+      "ReleaseDate": "2015-09-02T00:00:00",
+      "SteamId": 318020,
+      "MatchExecutablePatterns": [
+        "**\\Act of Aggression\\ActOfAggression.exe",
+        "**\\Act of Aggression\\ActOfAggressionRE.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/318020/7e87e259dcafe5a7f013135f2ff8b884bde9c83e.jpg"
+    },
+    {
       "GameId": "AssassinsCreedBlackFlag-2013",
       "Name": "Assassin\u0027s Creed IV Black Flag",
       "ReleaseDate": "2013-11-19T00:00:00",
