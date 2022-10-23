@@ -672,7 +672,7 @@
       "MatchExecutablePatterns": [
         "**\\Minecraft.Windows.exe"
       ],
-      "IconUri": ""
+      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/android-icon-192x192.png"
     },
     {
       "GameId": "MinecraftJava-2011",
@@ -682,7 +682,7 @@
       "MatchExecutablePatterns": [
         "**\\Minecraft\\runtime\\java-runtime-alpha\\windows-x64\\java-runtime-alpha\\bin\\javaw.exe"
       ],
-      "IconUri": ""
+      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/android-icon-192x192.png"
     },
     {
       "GameId": "MortalKombat11-2019",
