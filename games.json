@@ -415,6 +415,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/258970/183038d531a8cde7ac6aec03ca9bce7c49d4ca2e.jpg"
     },
     {
+      "GameId": "Gears5-2019",
+      "Name": "Gears 5",
+      "ReleaseDate": "2019-09-10T00:00:00",
+      "SteamId": 1097840,
+      "MatchExecutablePatterns": [
+        "**\\GearGame\\Binaries\\**\\Gears5.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1097840/df954557a7cbb1ae3ef632871025991082ed362f.jpg"
+    },
+    {
       "GameId": "Ghostbusters-2009",
       "Name": "Ghostbusters: The Video Game",
       "ReleaseDate": "2009-06-16T00:00:00",
