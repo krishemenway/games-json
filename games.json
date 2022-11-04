@@ -735,6 +735,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1157220/2ae1e989e64337680cebcd878967582c40036e28.jpg"
     },
     {
+      "GameId": "NewWorld-2021",
+      "Name": "New World",
+      "ReleaseDate": "2021-09-28T00:00:00",
+      "SteamId": 1063730,
+      "MatchExecutablePatterns": [
+        "**\\New World\\*\\NewWorld.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1063730/082cb546221edf8c9e68d0abda0421ce3c55ee71.jpg"
+    },
+    {
       "GameId": "NickelodeonAllStarBrawl-2021",
       "Name": "Nickelodeon All-Star Brawl",
       "ReleaseDate": "2021-10-04T00:00:00",
