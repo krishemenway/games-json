@@ -295,6 +295,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548430/e033e23c29a192a17c16a7645a2b423ac64ff447.jpg"
     },
     {
+      "GameId": "DwarfFortress-2022",
+      "Name": "Dwarf Fortress",
+      "ReleaseDate": "2022-12-06T00:00:00Z",
+      "SteamId": 975370,
+      "MatchExecutablePatterns": [
+        "**\\Dwarf Fortress\\Dwarf Fortress.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/975370/f2590e71d4b5c48c200ecc4d8b6e0eddb60eff20.jpg"
+    },
+    {
       "GameId": "DyingLight-2015",
       "Name": "Dying Light",
       "ReleaseDate": "2015-01-27T00:00:00",
