@@ -297,7 +297,7 @@
     {
       "GameId": "DwarfFortress-2022",
       "Name": "Dwarf Fortress",
-      "ReleaseDate": "2022-12-06T00:00:00Z",
+      "ReleaseDate": "2022-12-06T00:00:00",
       "SteamId": 975370,
       "MatchExecutablePatterns": [
         "**\\Dwarf Fortress\\Dwarf Fortress.exe"
@@ -467,7 +467,7 @@
     {
       "GameId": "GothamKnights-2022",
       "Name": "Gotham Knights",
-      "ReleaseDate": "2022-10-21T00:00:00Z",
+      "ReleaseDate": "2022-10-21T00:00:00",
       "SteamId": 1496790,
       "MatchExecutablePatterns": [
         "**\\Gotham Knights\\GothamKnights.exe"
