@@ -675,6 +675,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553310/6288b5eef47d603f11c1551b2c77913fd7f89d77.jpg"
     },
     {
+      "GameId": "MarvelsMidnightSuns-2022",
+      "Name": "Marvel\u0027s Midnight Suns",
+      "ReleaseDate": "2022-12-02T00:00:00",
+      "SteamId": 368260,
+      "MatchExecutablePatterns": [
+        "**\\Marvel\u0027s Midnight Suns\\MidnightSuns.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/67a641b993a2bfab72a2466b4ee7050c184b7dc5.jpg"
+    },
+    {
       "GameId": "MetalGearSolidV-2015",
       "Name": "Metal Gear Solid V: The Phantom Pain",
       "ReleaseDate": "2015-09-01T00:00:00",
