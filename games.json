@@ -1295,6 +1295,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/916840/57379893a3fffc2127d85e9e1ab7201410137566.jpg"
     },
     {
+      "GameId": "WorldWarZAftermath-2021",
+      "Name": "World War Z: Aftermath",
+      "ReleaseDate": "2021-09-21T00:00:00",
+      "SteamId": 699130,
+      "MatchExecutablePatterns": [
+        "**\\WWZ\\en_us\\client\\bin\\pc\\wwzRetail.exe",
+        "**\\WWZ\\en_us\\client\\bin\\pc\\wwzRelease.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/699130/0f9e81a6be6e3f5d2a40551ee3aaf63329048b7a.jpg"
+    },
+    {
       "GameId": "XCOMEnemyUnknown-2012",
       "Name": "XCOM: Enemy Unknown",
       "ReleaseDate": "2012-10-08T00:00:00",
