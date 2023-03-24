@@ -102,6 +102,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238840/325c78f6940b57a43b65468d2dc10e22601b0ec5.jpg"
     },
     {
+      "GameId": "Battlefield2042-2021",
+      "Name": "Battlefield\u2122 2042",
+      "ReleaseDate": "2021-11-19T00:00:00",
+      "SteamId": 1517290,
+      "MatchExecutablePatterns": [
+        "**\\Battlefield 2042\\BF2042.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1517290/dc805cd05c36a1b26f4eb57b64301e6708e20776.jpg"
+    },
+    {
       "GameId": "Battlefield4-2013",
       "Name": "Battlefield 4",
       "ReleaseDate": "2013-10-29T00:00:00",
