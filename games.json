@@ -42,6 +42,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/318020/7e87e259dcafe5a7f013135f2ff8b884bde9c83e.jpg"
     },
     {
+      "GameId": "AfterTheFall-2021",
+      "Name": "After The Fall",
+      "ReleaseDate": "2021-12-09T00:00:00",
+      "SteamId": 751630,
+      "MatchExecutablePatterns": [
+        "**\\After The Fall\\AfterTheFall.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751630/bccb6225d160d08e4f195d2a077e31832cdfdd5e.jpg"
+    },
+    {
       "GameId": "AssassinsCreedBlackFlag-2013",
       "Name": "Assassin\u0027s Creed IV Black Flag",
       "ReleaseDate": "2013-11-19T00:00:00",
