@@ -835,6 +835,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555160/d537afd8696affb4b2294aed07be5e13bcfc5d87.jpg"
     },
     {
+      "GameId": "Phasmophobia-2020",
+      "Name": "Phasmophobia",
+      "ReleaseDate": "2020-09-18T00:00:00",
+      "SteamId": 739630,
+      "MatchExecutablePatterns": [
+        "**\\Phasmophobia\\Phasmophobia.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/739630/125673b382059f666ec81477173380a76e1df0be.jpg"
+    },
+    {
       "GameId": "PinballFX2VR-2016",
       "Name": "Pinball FX2 VR",
       "ReleaseDate": "2016-11-29T00:00:00",
