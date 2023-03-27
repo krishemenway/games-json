@@ -465,6 +465,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1449280/c9ebd94acf66096fb786467017534f00f5705b60.jpg"
     },
     {
+      "GameId": "GhostReconBreakpoint-2023",
+      "Name": "Ghost Recon Breakpoint",
+      "ReleaseDate": "2023-01-23T00:00:00",
+      "SteamId": 2231380,
+      "MatchExecutablePatterns": [
+        "**\\Ghost Recon Breakpoint\\GRB_vulkan.exe",
+        "**\\Ghost Recon Breakpoint\\GRB.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2231380/c3672938f6f5bd6b7825a1a3e434c27971a481a5.jpg"
+    },
+    {
       "GameId": "GhostReconWildlands-2017",
       "Name": "Tom Clancy\u0027s Ghost Recon\u00AE Wildlands",
       "ReleaseDate": "2017-03-07T00:00:00",
