@@ -526,6 +526,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/271590/1e72f87eb927fa1485e68aefaff23c7fd7178251.jpg"
     },
     {
+      "GameId": "Grounded-2022",
+      "Name": "Grounded",
+      "ReleaseDate": "2022-09-27T00:00:00",
+      "SteamId": 962130,
+      "MatchExecutablePatterns": [
+        "**\\Grounded\\Grounded.exe",
+        "**\\Grounded\\GroundedDev.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/962130/0e598fd0dc10e3d85e5f244c62d0c41e4c8d96cc.jpg"
+    },
+    {
       "GameId": "GuardiansOfTheGalaxy-2021",
       "Name": "Marvel\u0027s Guardians of the Galaxy",
       "ReleaseDate": "2021-10-26T00:00:00",
