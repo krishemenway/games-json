@@ -1157,6 +1157,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413150/35d1377200084a4034238c05b0c8930451e2fb40.jpg"
     },
     {
+      "GameId": "StarWarsKOTOR2-2005",
+      "Name": "STAR WARS Knights of the Old Republic II: The Sith Lords",
+      "ReleaseDate": "2005-02-08T00:00:00",
+      "SteamId": 208580,
+      "MatchExecutablePatterns": [
+        "**\\Knights of the Old Republic II\\swkotor2.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208580/1c9e1a68198c15eb47b35c692fbfa5adeb7a6566.jpg"
+    },
+    {
       "GameId": "StrangeBrigade-2018",
       "Name": "Strange Brigade",
       "ReleaseDate": "2018-08-27T00:00:00",
