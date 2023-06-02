@@ -1157,6 +1157,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413150/35d1377200084a4034238c05b0c8930451e2fb40.jpg"
     },
     {
+      "GameId": "StarWarsKOTOR-2003",
+      "Name": "STAR WARS Knights of the Old Republic",
+      "ReleaseDate": "2003-07-15T00:00:00",
+      "SteamId": 32370,
+      "MatchExecutablePatterns": [
+        "**\\swkotor\\swkotor.exe",
+        "**\\swkotor\\Knights of the Old Republic.app"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/32370/018b6650c8de8c9c36d957cf6f8bc11d0c21d083.jpg"
+    },
+    {
       "GameId": "StarWarsKOTOR2-2005",
       "Name": "STAR WARS Knights of the Old Republic II: The Sith Lords",
       "ReleaseDate": "2005-02-08T00:00:00",
