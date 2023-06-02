@@ -1257,6 +1257,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1451480/22ef7c32b177bc1ca22d413166b038c04c42de9a.jpg"
     },
     {
+      "GameId": "TheOutlastTrials-2023",
+      "Name": "The Outlast Trials",
+      "ReleaseDate": "2023-05-18T00:00:00",
+      "SteamId": 1304930,
+      "MatchExecutablePatterns": [
+        "**\\The Outlast Trials\\TOTClient.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1304930/159a7d66ffd179c920eefe07392e6a261e899965.jpg"
+    },
+    {
       "GameId": "Timberborn-2021",
       "Name": "Timberborn",
       "ReleaseDate": "2021-09-15T00:00:00",
