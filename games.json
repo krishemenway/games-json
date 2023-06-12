@@ -1147,6 +1147,16 @@
       "IconUri": "https://static.starcraft2.com/dist/images/global/logos/img-sc2-nav-icon.png"
     },
     {
+      "GameId": "DiabloIV-2023",
+      "Name": "Diablo IV",
+      "ReleaseDate": "2023-06-05T00:00:00",
+      "SteamId": null,
+      "MatchExecutablePatterns": [
+        "**\\Diablo IV\\Diablo IV.exe"
+      ],
+      "IconUri": "https://blz-contentstack-images.akamaized.net/v3/assets/blt72f16e066f85e164/blt15336eccf10cd269/diablo-IV.webp"
+    },
+    {
       "GameId": "StardewValley-2016",
       "Name": "Stardew Valley",
       "ReleaseDate": "2016-02-26T00:00:00",
