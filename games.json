@@ -92,6 +92,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/4a2e853e7098bb0ebe637107e8180084a3117184.jpg"
     },
     {
+      "GameId": "BattleBitRemastered-2023",
+      "Name": "BattleBit Remastered",
+      "ReleaseDate": "2023-06-15T00:00:00",
+      "SteamId": 671860,
+      "MatchExecutablePatterns": [
+        "**\\BattleBit Remastered\\BattleBitEAC.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/671860/84d4db032ad4d637b97e9a25f7d3da70b6fd6257.jpg"
+    },
+    {
       "GameId": "Battlefield1-2016",
       "Name": "Battlefield 1",
       "ReleaseDate": "2016-10-20T00:00:00",
@@ -313,6 +323,16 @@
         "**\\Deep Rock Galactic\\FSD.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/548430/e033e23c29a192a17c16a7645a2b423ac64ff447.jpg"
+    },
+    {
+      "GameId": "DiabloIV-2023",
+      "Name": "Diablo IV",
+      "ReleaseDate": "2023-06-05T00:00:00",
+      "SteamId": null,
+      "MatchExecutablePatterns": [
+        "**\\Diablo IV\\Diablo IV.exe"
+      ],
+      "IconUri": "https://blz-contentstack-images.akamaized.net/v3/assets/blt72f16e066f85e164/blt15336eccf10cd269/diablo-IV.webp"
     },
     {
       "GameId": "DwarfFortress-2022",
@@ -1145,16 +1165,6 @@
         "**\\StarCraft II\\**\\SC2_x64.exe"
       ],
       "IconUri": "https://static.starcraft2.com/dist/images/global/logos/img-sc2-nav-icon.png"
-    },
-    {
-      "GameId": "DiabloIV-2023",
-      "Name": "Diablo IV",
-      "ReleaseDate": "2023-06-05T00:00:00",
-      "SteamId": null,
-      "MatchExecutablePatterns": [
-        "**\\Diablo IV\\Diablo IV.exe"
-      ],
-      "IconUri": "https://blz-contentstack-images.akamaized.net/v3/assets/blt72f16e066f85e164/blt15336eccf10cd269/diablo-IV.webp"
     },
     {
       "GameId": "StardewValley-2016",
