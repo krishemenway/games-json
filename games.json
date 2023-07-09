@@ -202,6 +202,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg"
     },
     {
+      "GameId": "Brotato-2023",
+      "Name": "Brotato",
+      "ReleaseDate": "2023-06-23T00:00:00",
+      "SteamId": 1942280,
+      "MatchExecutablePatterns": [
+        "**\\Brotato\\Brotato.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1942280/256b74e935280a11e9cfdfc03e02137bbf0c9a7a.jpg"
+    },
+    {
       "GameId": "CallOfDuty2-2005",
       "Name": "Call of Duty 2",
       "ReleaseDate": "2005-10-25T00:00:00",
