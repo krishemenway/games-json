@@ -97,7 +97,7 @@
       "ReleaseDate": "2023-06-15T00:00:00",
       "SteamId": 671860,
       "MatchExecutablePatterns": [
-        "**\\BattleBit Remastered\\BattleBitEAC.exe"
+        "**\\BattleBit Remastered\\BattleBit.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/671860/84d4db032ad4d637b97e9a25f7d3da70b6fd6257.jpg"
     },
