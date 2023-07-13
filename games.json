@@ -1449,6 +1449,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/916840/57379893a3fffc2127d85e9e1ab7201410137566.jpg"
     },
     {
+      "GameId": "Warhammer40000Boltgun-2023",
+      "Name": "Warhammer 40,000: Boltgun",
+      "ReleaseDate": "2023-05-23T00:00:00",
+      "SteamId": 2005010,
+      "MatchExecutablePatterns": [
+        "**\\Boltgun\\Warhammer 40,000 Boltgun.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2005010/2ffcd2f993a8dac66c8523fb579234ffa2c83bdf.jpg"
+    },
+    {
       "GameId": "WorldWarZAftermath-2021",
       "Name": "World War Z: Aftermath",
       "ReleaseDate": "2021-09-21T00:00:00",
