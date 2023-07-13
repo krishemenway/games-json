@@ -202,6 +202,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg"
     },
     {
+      "GameId": "BreadAndFred-2023",
+      "Name": "Bread & Fred",
+      "ReleaseDate": "2023-05-23T00:00:00",
+      "SteamId": 1607680,
+      "MatchExecutablePatterns": [
+        "**\\Bread & Fred\\Bread&Fred.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1607680/fcfff47466da4d40a2f1aa12fc941e2955f55038.jpg"
+    },
+    {
       "GameId": "Brotato-2023",
       "Name": "Brotato",
       "ReleaseDate": "2023-06-23T00:00:00",
