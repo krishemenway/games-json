@@ -285,6 +285,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/330020/29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b.jpg"
     },
     {
+      "GameId": "Chorus-2021",
+      "Name": "Chorus",
+      "ReleaseDate": "2021-12-03T00:00:00",
+      "SteamId": 1153640,
+      "MatchExecutablePatterns": [
+        "**\\Chorus\\Chorus-Win64-Shipping.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1153640/14f4191e762331485b2689b3ebd8a5648680a5cf.jpg"
+    },
+    {
       "GameId": "Compound-2022",
       "Name": "COMPOUND",
       "ReleaseDate": "2022-07-19T00:00:00",
