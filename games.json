@@ -814,7 +814,7 @@
       "MatchExecutablePatterns": [
         "**\\Minecraft.Windows.exe"
       ],
-      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/android-icon-192x192.png"
+      "IconUri": "https://raw.githubusercontent.com/krishemenway/games-json/master/games/MinecraftBedrock-2015/Icon32.webp"
     },
     {
       "GameId": "MinecraftJava-2011",
@@ -824,7 +824,7 @@
       "MatchExecutablePatterns": [
         "**\\Minecraft\\runtime\\java-runtime-alpha\\windows-x64\\java-runtime-alpha\\bin\\javaw.exe"
       ],
-      "IconUri": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/android-icon-192x192.png"
+      "IconUri": "https://raw.githubusercontent.com/krishemenway/games-json/master/games/MinecraftJava-2011/Icon32.webp"
     },
     {
       "GameId": "MortalKombat11-2019",
