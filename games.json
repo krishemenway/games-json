@@ -102,6 +102,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/924970/4a2e853e7098bb0ebe637107e8180084a3117184.jpg"
     },
     {
+      "GameId": "BaldursGate3-2021",
+      "Name": "Baldur's Gate 3",
+      "ReleaseDate": "2023-08-03T00:00:00",
+      "SteamId": 1086940,
+      "MatchExecutablePatterns": [
+        "**\\Baldurs Gate 3\\bin\\bg3.exe",
+        "**\\Baldurs Gate 3\\bin\\bg3_dx11.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/d866cae7ea1e471fdbc206287111f1b642373bd9.jpg"
+    },
+    {
       "GameId": "BattleBitRemastered-2023",
       "Name": "BattleBit Remastered",
       "ReleaseDate": "2023-06-15T00:00:00",
