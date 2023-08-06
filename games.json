@@ -57,6 +57,7 @@
       "ReleaseDate": "2021-08-24T00:00:00",
       "SteamId": 1549970,
       "MatchExecutablePatterns": [
+        "**\\Aliens Fireteam Elite\\Endeavor\\Binaries\\Win64\\Endeavor-Win64-Shipping.exe",
         "**\\Aliens- Fireteam Elite\\Content\\Endeavor\\Binaries\\WinGDK\\Endeavor-WinGDK-Shipping.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1549970/c2ad8ba213932fae2b528eda83973c22ae7379eb.jpg"
