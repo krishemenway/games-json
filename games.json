@@ -52,6 +52,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751630/bccb6225d160d08e4f195d2a077e31832cdfdd5e.jpg"
     },
     {
+      "GameId": "AliensFireteamElite-2021",
+      "Name": "Aliens - Fireteam Elite",
+      "ReleaseDate": "2021-08-23T00:00:00",
+      "SteamId": 1549970,
+      "MatchExecutablePatterns": [
+        "**\\Aliens- Fireteam Elite\\Content\\Endeavor\\Binaries\\WinGDK\\Endeavor-WinGDK-Shipping.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1549970/c2ad8ba213932fae2b528eda83973c22ae7379eb.jpg"
+    },
+    {
       "GameId": "AssassinsCreedBlackFlag-2013",
       "Name": "Assassin\u0027s Creed IV Black Flag",
       "ReleaseDate": "2013-11-19T00:00:00",
