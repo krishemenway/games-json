@@ -1451,6 +1451,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/b09d9a388f5328ec977f7b45228ac8ae21a78c55.jpg"
     },
     {
+      "GameId": "VoidCrew-2023",
+      "Name": "Void Crew",
+      "ReleaseDate": "2023-09-07T00:00:00",
+      "SteamId": 1063420,
+      "MatchExecutablePatterns": [
+        "**\\Void Crew\\Void Crew.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1063420/fce405564dd17dcaa6a5d62a4adde3011a0a221e.jpg"
+    },
+    {
       "GameId": "VRising-2022",
       "Name": "V Rising",
       "ReleaseDate": "2022-05-17T00:00:00",
