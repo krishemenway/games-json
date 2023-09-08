@@ -1451,6 +1451,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/b09d9a388f5328ec977f7b45228ac8ae21a78c55.jpg"
     },
     {
+      "GameId": "VoidBastards-2019",
+      "Name": "Void Bastards",
+      "ReleaseDate": "2019-05-29T00:00:00",
+      "SteamId": 857980,
+      "MatchExecutablePatterns": [
+        "**\\Void Bastards\\Void Bastards.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/857980/4f6082aade16c5dfe9e420d6d45cb59a0125c009.jpg"
+    },
+    {
       "GameId": "VoidCrew-2023",
       "Name": "Void Crew",
       "ReleaseDate": "2023-09-07T00:00:00",
