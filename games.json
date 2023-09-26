@@ -1260,6 +1260,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208580/1c9e1a68198c15eb47b35c692fbfa5adeb7a6566.jpg"
     },
     {
+      "GameId": "StateOfDecay2-2020",
+      "Name": "State of Decay 2",
+      "ReleaseDate": "2020-03-13T00:00:00",
+      "SteamId": 495420,
+      "MatchExecutablePatterns": [
+        "**\\StateOfDecay2\\StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d6d418d682accfb51ee089ea506587c9c924989b.jpg"
+    },
+    {
       "GameId": "StrangeBrigade-2018",
       "Name": "Strange Brigade",
       "ReleaseDate": "2018-08-27T00:00:00",
