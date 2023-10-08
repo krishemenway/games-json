@@ -799,6 +799,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553310/6288b5eef47d603f11c1551b2c77913fd7f89d77.jpg"
     },
     {
+      "GameId": "MarvelsAvengers-2020",
+      "Name": "Marvel\u0027s Avengers",
+      "ReleaseDate": "2020-09-04T00:00:00",
+      "SteamId": 997070,
+      "MatchExecutablePatterns": [
+        "**\\Marvels Avengers\\Avengers.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/997070/86a7b69906c6ed25d52822bcd3f8831f0876e9d3.jpg"
+    },
+    {
       "GameId": "MarvelsMidnightSuns-2022",
       "Name": "Marvel\u0027s Midnight Suns",
       "ReleaseDate": "2022-12-02T00:00:00",
