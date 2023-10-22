@@ -1521,6 +1521,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2005010/2ffcd2f993a8dac66c8523fb579234ffa2c83bdf.jpg"
     },
     {
+      "GameId": "Warhammer40000DarkTide-2022",
+      "Name": "Warhammer 40,000: Darktide",
+      "ReleaseDate": "2022-11-30T00:00:00",
+      "SteamId": 1361210,
+      "MatchExecutablePatterns": [
+        "**\\Warhammer 40,000 Darktide Playtest\\binaries\\Darktide.exe",
+        "**\\Warhammer 40,000 DARKTIDE\\binaries\\Darktide.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1361210/d5393efe3861d02745efd35bc406f7740c8d6838.jpg"
+    },
+    {
       "GameId": "WorldWarZAftermath-2021",
       "Name": "World War Z: Aftermath",
       "ReleaseDate": "2021-09-21T00:00:00",
