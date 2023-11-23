@@ -1109,6 +1109,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/632360/0b809ac6f25e6570fecae5fc47bca0139a7bf70c.jpg"
     },
     {
+      "GameId": "RivalsOfAether-2017",
+      "Name": "Rivals of Aether",
+      "ReleaseDate": "2017-03-28T00:00:00",
+      "SteamId": 383980,
+      "MatchExecutablePatterns": [
+        "**\\Rivals of Aether\\RivalsofAether.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/1eaacd26ab3f35ba0432b63f6ddac66cf3a79afa.jpg"
+    },
+    {
       "GameId": "RoadRedemption-2019",
       "Name": "Road Redemption",
       "ReleaseDate": "2019-10-07T00:00:00",
