@@ -699,6 +699,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905340/40c4305497de0d0ea540632e82dac34987354be8.jpg"
     },
     {
+      "GameId": "HellboyWebOfWyrd-2023",
+      "Name": "Hellboy Web of Wyrd",
+      "ReleaseDate": "2023-10-18T00:00:00",
+      "SteamId": 2160480,
+      "MatchExecutablePatterns": [
+        "**\\Hellboy Web of Wyrd\\Hellboy.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2160480/3c3e41243f76b44b28205a67bdade4f1b11a0d08.jpg"
+    },
+    {
       "GameId": "HerosHour-2022",
       "Name": "Hero\u0027s Hour",
       "ReleaseDate": "2022-03-01T00:00:00",
