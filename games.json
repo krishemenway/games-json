@@ -347,6 +347,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1259420/839338fcedd1033ab7f0d2a31c194fb880ebf7b5.jpg"
     },
     {
+      "GameId": "DeadOrAlive5LastRound-2015",
+      "Name": "Dead or Alive 5: Last Round",
+      "ReleaseDate": "2015-03-30T00:00:00",
+      "SteamId": 311730,
+      "MatchExecutablePatterns": [
+        "**\\Dead or Alive 5 Last Round\\game.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311730/077a73875a500672b1184cca6fd3ac0382500ed3.jpg"
+    },
+    {
       "GameId": "DeadOrAlive6-2019",
       "Name": "Dead or Alive 6",
       "ReleaseDate": "2019-03-01T00:00:00",
