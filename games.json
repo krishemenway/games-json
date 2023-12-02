@@ -899,6 +899,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/976310/315c46ce25bcb6afa47473588b5fd8edeb3afdfa.jpg"
     },
     {
+      "GameId": "MountAndBladeWarband-2010",
+      "Name": "Mount \u0026 Blade: Warband",
+      "ReleaseDate": "2010-03-31T00:00:00",
+      "SteamId": 48700,
+      "MatchExecutablePatterns": [
+        "**\\mountblade warband\\mb_warband.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/48700/0773e90a6991a5427df4ee516687d832d92b050e.jpg"
+    },
+    {
       "GameId": "MountAndBlade2-2020",
       "Name": "Mount \u0026 Blade 2: Bannerlord",
       "ReleaseDate": "2020-03-30T00:00:00",
