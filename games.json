@@ -1320,6 +1320,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/208580/1c9e1a68198c15eb47b35c692fbfa5adeb7a6566.jpg"
     },
     {
+      "GameId": "StarWarsTheOldRepublic-2020",
+      "Name": "STAR WARS: The Old Republic™",
+      "ReleaseDate": "2020-07-21T00:00:00",
+      "SteamId": 1286830,
+      "MatchExecutablePatterns": [
+        "**\\Star Wars - The Old Republic\\**\\swtor.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1286830/cee1e2970e9535767d963bf3c2c4011adb100609.jpg"
+    },
+    {
       "GameId": "StateOfDecay2-2020",
       "Name": "State of Decay 2",
       "ReleaseDate": "2020-03-13T00:00:00",
