@@ -588,6 +588,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1593500/8aa5e7e0e55cad682c7f2e65e075c3bc04dfc1cb.jpg"
     },
     {
+      "GameId": "Gorn-2019",
+      "Name": "Gorn",
+      "ReleaseDate": "2019-07-18T00:00:00",
+      "SteamId": 578620,
+      "MatchExecutablePatterns": [
+        "**\\GORN\\GORN.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/578620/a9e8c74c0af738494192219e5d2ad1ab8b7b6f73.jpg"
+    },
+    {
       "GameId": "GothamKnights-2022",
       "Name": "Gotham Knights",
       "ReleaseDate": "2022-10-21T00:00:00",
