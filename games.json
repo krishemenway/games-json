@@ -999,6 +999,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/275850/fccb20f309ac5ae05b3cb4576a8a3357edf86f2e.jpg"
     },
     {
+      "GameId": "OrcsMustDie3-2021",
+      "Name": "Orcs Must Die! 3",
+      "ReleaseDate": "2021-07-23T00:00:00",
+      "SteamId": 1522820,
+      "MatchExecutablePatterns": [
+        "**\\Orcs Must Die 3\\Orcs Must Die! 3.exe "
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1522820/e637d019db32c830fe82c663644f8d3a46072c15.jpg"
+    },
+    {
       "GameId": "OutOfAmmo-2016",
       "Name": "Out of Ammo",
       "ReleaseDate": "2016-09-15T00:00:00",
