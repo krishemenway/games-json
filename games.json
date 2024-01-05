@@ -1004,7 +1004,7 @@
       "ReleaseDate": "2021-07-23T00:00:00",
       "SteamId": 1522820,
       "MatchExecutablePatterns": [
-        "**\\Orcs Must Die 3\\Orcs Must Die! 3.exe "
+        "**\\Orcs Must Die 3\\Orcs Must Die! 3.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1522820/e637d019db32c830fe82c663644f8d3a46072c15.jpg"
     },
