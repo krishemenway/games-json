@@ -1019,6 +1019,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/451840/b95b7cad187499b370a3bfd41f973212b97b8409.jpg"
     },
     {
+      "GameId": "Palworld-2024",
+      "Name": "Palworld",
+      "ReleaseDate": "2024-01-19T00:00:00",
+      "SteamId": 1623730,
+      "MatchExecutablePatterns": [
+        "**\\Palworld\\Palworld.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/f5523077a8f4c923c2e8d8c17794b3319035fa73.jpg"
+    },
+    {
       "GameId": "PavlovVR-2017",
       "Name": "Pavlov VR",
       "ReleaseDate": "2017-02-27T00:00:00",
