@@ -969,6 +969,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1414850/aaa83c64123e020b6ed8033997236ddeef9da3cf.jpg"
     },
     {
+      "GameId": "NickelodeonAllStarBrawl2-2023",
+      "Name": "Nickelodeon All-Star Brawl 2",
+      "ReleaseDate": "2023-11-07T00:00:00",
+      "SteamId": 2017080,
+      "MatchExecutablePatterns": [
+        "**\\Nickelodeon All-Star Brawl 2\\Nickelodeon All-Star Brawl 2.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2017080/04e76e51a16dcd35dbd724be5e222e1f87439d93.jpg"
+    },
+    {
       "GameId": "NierAutomata-2017",
       "Name": "NieR:Automata",
       "ReleaseDate": "2017-03-17T00:00:00",
