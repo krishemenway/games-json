@@ -1531,6 +1531,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1361510/42b5c6566f9141a08a11dc74b8b915c919410d2c.jpg"
     },
     {
+      "GameId": "Tribes3Rivals-2024",
+      "Name": "TRIBES 3: Rivals",
+      "ReleaseDate": "2024-03-12T00:00:00",
+      "SteamId": 2687970,
+      "MatchExecutablePatterns": [
+        "**\\TRIBES 3 Rivals\\TribesRivals.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2687970/90e1573d7e4dfc4795b59c28c9cafc9b3b83a34a.jpg"
+    },
+    {
       "GameId": "UnrealTournament-2014",
       "Name": "Unreal Tournament 4",
       "ReleaseDate": "2014-08-13T00:00:00",
