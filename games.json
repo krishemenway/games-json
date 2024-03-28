@@ -1289,6 +1289,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920/eeb9384067131b98cd71308aeded180dd9538951.jpg"
     },
     {
+      "GameId": "SonsOfTheForest-2024",
+      "Name": "SonsOfTheForest",
+      "ReleaseDate": "2024-02-22T00:00:00",
+      "SteamId": 1326470,
+      "MatchExecutablePatterns": [
+        "**\\Sons Of The Forest\\SonsOfTheForest.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1326470/bd28fe592b339cff5a3eef743f31e3166c984c68.jpg"
+    },
+    {
       "GameId": "SpaceEngineers-2013",
       "Name": "Space Engineers",
       "ReleaseDate": "2013-10-23T00:00:00",
