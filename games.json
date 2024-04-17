@@ -467,6 +467,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/427520/267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d.jpg"
     },
     {
+      "GameId": "Fallout76-2020",
+      "Name": "Fallout 76",
+      "ReleaseDate": "2020-04-14T00:00:00",
+      "SteamId": 1151340,
+      "MatchExecutablePatterns": [
+        "**\\Fallout76\\Fallout76.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1151340/81185120c1c1a4b26442828b25bbb58aec8d734c.jpg"
+    },
+    {
       "GameId": "Fallout4-2015",
       "Name": "Fallout 4",
       "ReleaseDate": "2015-11-10T00:00:00",
