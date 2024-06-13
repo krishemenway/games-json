@@ -277,6 +277,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/10090/2bfb85222af4a01842baa5c3a16a080eb27ac6c3.jpg"
     },
     {
+      "GameId": "CallOfDutyWorldAtWar-2008",
+      "Name": "Call of Duty: Black Ops III",
+      "ReleaseDate": "2015-11-06T00:00:00",
+      "SteamId": 311210,
+      "MatchExecutablePatterns": [
+        "**\\Call of Duty Black Ops III\\BlackOps3.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/311210/bd3e3a9516b480164df25d16e49ae4ce4a063cb4.jpg"
+    },
+    {
       "GameId": "CastleCrashers-2012",
       "Name": "Castle Crashers",
       "ReleaseDate": "2012-09-26T00:00:00",
