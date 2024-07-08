@@ -1179,6 +1179,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/617290/0fec2d481028011910bf6fc35c61d19386695128.jpg"
     },
     {
+      "GameId": "Remnant2-2023",
+      "Name": "Remnant II",
+      "ReleaseDate": "2023-07-25T00:00:00",
+      "SteamId": 1282100,
+      "MatchExecutablePatterns": [
+        "**\\Remnant2\\Remnant2.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/7223e40d6e1d9a25db48cce857d1b83c5f2c5704.jpg"
+    },
+    {
       "GameId": "RiseOfNations-2014",
       "Name": "Rise of Nations",
       "ReleaseDate": "2014-06-12T00:00:00",
