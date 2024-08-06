@@ -1119,6 +1119,17 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/493340/1b2f29e743dd3048f21fefd9642d86a5f5123968.jpg"
     },
     {
+      "GameId": "PlantsVsZombiesGardenWarfare2-2022",
+      "Name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+      "ReleaseDate": "2022-05-16T00:00:00",
+      "SteamId": 1922560,
+      "MatchExecutablePatterns": [
+        "**\\PVZGW2\\GW2.Main_Win64_Retail.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1922560/fc6f1e8686ad5b42e270ea1ce592e30b5f77ef25.jpg"
+    },
+    
+    {
       "GameId": "Prey-2017",
       "Name": "Prey",
       "ReleaseDate": "2017-05-05T00:00:00",
