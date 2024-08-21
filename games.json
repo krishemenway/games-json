@@ -31,6 +31,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/251570/f6515dd177b2992aebcb563151fbe836a600f364.jpg"
     },
     {
+      "GameId": "AbioticFactor-2024",
+      "Name": "Abiotic Factor",
+      "ReleaseDate": "2024-05-02T00:00:00",
+      "SteamId": 427410,
+      "MatchExecutablePatterns": [
+        "**\\AbioticFactor\\AbioticFactor.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/427410/789cca4e4e51a6649f5728d870d3a602e3c453fe.jpg"
+    },
+    {
       "GameId": "ActOfAggression-2015",
       "Name": "Act Of Aggression",
       "ReleaseDate": "2015-09-02T00:00:00",
