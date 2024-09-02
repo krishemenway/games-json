@@ -1522,6 +1522,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/690040/b559e2f04cd42ef1d8fad23e735516bd7d155d5c.jpg"
     },
     {
+      "GameId": "TacticalBreachWizards-2024",
+      "Name": "Tactical Breach Wizards",
+      "ReleaseDate": "2024-08-22T00:00:00",
+      "SteamId": 1043810,
+      "MatchExecutablePatterns": [
+        "**\\Tactical Breach Wizards\\Tactical Breach Wizards.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1043810/d0dd5250a8507b64ccb0d42cc1d9aa4ada4b3945.jpg"
+    },
+    {
       "GameId": "TeamFortress2-2007",
       "Name": "Team Fortress 2",
       "ReleaseDate": "2007-10-10T00:00:00",
