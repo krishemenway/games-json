@@ -1380,6 +1380,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/418650/77771ac82d2ca2d4e2e958cacfa7f8092eb216c2.jpg"
     },
     {
+      "GameId": "SpiderHeck-2022",
+      "Name": "SpiderHeck",
+      "ReleaseDate": "2022-09-22T00:00:00",
+      "SteamId": 1329500,
+      "MatchExecutablePatterns": [
+        "**\\SpiderHeck\\SpiderHeckApp.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1329500/01f1d4f02f20fbdf051a28cd3960c6150e6e7aa0.jpg"
+    },
+    {
       "GameId": "Splitgate-2019",
       "Name": "Splitgate",
       "ReleaseDate": "2019-05-24T00:00:00",
