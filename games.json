@@ -62,6 +62,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751630/bccb6225d160d08e4f195d2a077e31832cdfdd5e.jpg"
     },
     {
+      "GameId": "AgeOfMythologyRetold-2024",
+      "Name": "Age of Mythology: Retold",
+      "ReleaseDate": "2024-09-04T00:00:00",
+      "SteamId": 1934680,
+      "MatchExecutablePatterns": [
+        "**\\Age of Mythology Retold\\AoMRT_s.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1934680/c69b2245190abb7c95d01f4aff4ffdd7f2b2adc6.jpg"
+    },
+    {
       "GameId": "AliensFireteamElite-2021",
       "Name": "Aliens - Fireteam Elite",
       "ReleaseDate": "2021-08-24T00:00:00",
