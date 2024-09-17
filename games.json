@@ -1295,7 +1295,8 @@
       "ReleaseDate": "2019-03-19T00:00:00",
       "SteamId": 526870,
       "MatchExecutablePatterns": [
-        "**\\Satisfactory\\FactoryGame.exe"
+        "**\\Satisfactory\\FactoryGame.exe",
+        "**\\Satisfactory\\FactoryGameSteam.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/526870/ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6.jpg"
     },
