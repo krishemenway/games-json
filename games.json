@@ -889,6 +889,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/553310/6288b5eef47d603f11c1551b2c77913fd7f89d77.jpg"
     },
     {
+      "GameId": "MarvelRivals-2024",
+      "Name": "Marvel Rivals",
+      "ReleaseDate": "2024-12-08T00:00:00",
+      "SteamId": 2767030,
+      "MatchExecutablePatterns": [
+        "**\\MarvelRivals\\MarvelGame\\Marvel.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2767030/839b4712925b95702ca56e0c4d399adf54f4d617.jpg"
+    },
+    {
       "GameId": "MarvelsAvengers-2020",
       "Name": "Marvel\u0027s Avengers",
       "ReleaseDate": "2020-09-04T00:00:00",
