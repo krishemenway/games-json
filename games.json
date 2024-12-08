@@ -1371,6 +1371,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1326470/bd28fe592b339cff5a3eef743f31e3166c984c68.jpg"
     },
     {
+      "GameId": "SouthParkSnowDay-2024",
+      "Name": "South Park: Snow Day!",
+      "ReleaseDate": "2024-03-26T00:00:00",
+      "SteamId": 1214650,
+      "MatchExecutablePatterns": [
+        "**\\SouthParkSnowDay\\SnowDay.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1214650/73959cc2499fb887bfd1317d2318da90bc842ebb.jpg"
+    },
+    {
       "GameId": "SpaceEngineers-2013",
       "Name": "Space Engineers",
       "ReleaseDate": "2013-10-23T00:00:00",
