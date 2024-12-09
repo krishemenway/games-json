@@ -477,6 +477,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/359320/670f2f289a180f7ac291585df847009640ebf1c5.jpg"
     },
     {
+      "GameId": "Enshrouded-2024",
+      "Name": "Enshrouded",
+      "ReleaseDate": "2024-01-24T00:00:00",
+      "SteamId": 1203620,
+      "MatchExecutablePatterns": [
+        "**\\Enshrouded\\enshrouded.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1203620/9588cc0bd32e350a2353c332be67cf52a9b2b47b.jpg"
+    },
+    {
       "GameId": "EvilGenius2-2021",
       "Name": "Evil Genius 2",
       "ReleaseDate": "2021-03-30T00:00:00",
