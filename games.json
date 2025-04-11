@@ -1342,6 +1342,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/526870/ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6.jpg"
     },
     {
+      "GameId": "ScheduleI-2025",
+      "Name": "Schedule I",
+      "ReleaseDate": "2025-03-24T00:00:00",
+      "SteamId": 3164500,
+      "MatchExecutablePatterns": [
+        "**\\Schedule I\\Schedule I.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3164500/3d9f9ed56cb6e1ba995883207290c39674e9c411.jpg"
+    },
+    {
       "GameId": "ScrapMechanic-2016",
       "Name": "Scrap Mechanic",
       "ReleaseDate": "2016-01-20T00:00:00",
