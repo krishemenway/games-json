@@ -467,6 +467,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1366540/55fa75b8e6586427da47f58f320e975e990a460b.jpg"
     },
     {
+      "GameId": "EchoPointNova-2024",
+      "Name": "Echo Point Nova",
+      "ReleaseDate": "2024-09-24T00:00:00",
+      "SteamId": 1836730,
+      "MatchExecutablePatterns": [
+        "**\\Greylock\\Greylock.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1836730/e127de25605e0a939e2fc50d1672a1b75022b5a0.jpg"
+    },
+    {
       "GameId": "EliteDangerous-2014",
       "Name": "Elite Dangerous",
       "ReleaseDate": "2014-12-16T00:00:00",
