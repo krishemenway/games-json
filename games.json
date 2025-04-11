@@ -850,16 +850,6 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1426210/6b15f6d81c4fc52056f4928b363b7fac591a945b.jpg"
     },
     {
-      "GameId": "StarWarsEmpireAtWar-2010",
-      "Name": "Star Wars Empire at War",
-      "ReleaseDate": "2010-05-06T00:00:00",
-      "SteamId": 32470,
-      "MatchExecutablePatterns": [
-        "**\\Star Wars Empire at War\\GameData\\StarWarsG.exe"
-      ],
-      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/32470/3f65d9be3af3083c07f1053dbf0b0653af7323b8.jpg"
-    },
-    {
       "GameId": "JediFallenOrder-2019",
       "Name": "Star Wars Jedi: Fallen Order",
       "ReleaseDate": "2019-11-15T00:00:00",
@@ -1500,6 +1490,16 @@
         "**\\Stardew Valley\\Stardew Valley.exe"
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/413150/35d1377200084a4034238c05b0c8930451e2fb40.jpg"
+    },
+    {
+      "GameId": "StarWarsEmpireAtWar-2010",
+      "Name": "Star Wars Empire at War",
+      "ReleaseDate": "2010-05-06T00:00:00",
+      "SteamId": 32470,
+      "MatchExecutablePatterns": [
+        "**\\Star Wars Empire at War\\GameData\\StarWarsG.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/32470/3f65d9be3af3083c07f1053dbf0b0653af7323b8.jpg"
     },
     {
       "GameId": "StarWarsKOTOR-2003",
