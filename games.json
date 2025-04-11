@@ -214,6 +214,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620980/d2922f271fca9579ecdcc07408cee13d87ca4148.jpg"
     },
     {
+      "GameId": "BigHelmetHeroes-2025",
+      "Name": "Big Helmet Heroes",
+      "ReleaseDate": "2025-02-06T00:00:00",
+      "SteamId": 2397250,
+      "MatchExecutablePatterns": [
+        "**\\Big Helmet Heroes\\BigHelmetHeroes.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2397250/aead735c712563d52dbfb3d512cb26cb3fb7a507.jpg"
+    },
+    {
       "GameId": "BladeAndSorcery-2018",
       "Name": "Blade and Sorcery",
       "ReleaseDate": "2018-12-11T00:00:00",
