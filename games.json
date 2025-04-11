@@ -1261,6 +1261,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg"
     },
     {
+      "GameId": "ReturnToMoria-2024",
+      "Name": "The Lord of the Rings: Return to Moria™",
+      "ReleaseDate": "2024-08-27T00:00:00",
+      "SteamId": 2933130,
+      "MatchExecutablePatterns": [
+        "**\\The Lord of the Rings Return to Moria™\\Moria.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2933130/29286f2af71b4c1752abf62428e2b60761f7e69a.jpg"
+    },
+    {
       "GameId": "RiseOfNations-2014",
       "Name": "Rise of Nations",
       "ReleaseDate": "2014-06-12T00:00:00",
