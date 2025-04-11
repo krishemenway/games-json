@@ -1250,6 +1250,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/7223e40d6e1d9a25db48cce857d1b83c5f2c5704.jpg"
     },
     {
+      "GameId": "REPO-2025",
+      "Name": "R.E.P.O.",
+      "ReleaseDate": "2025-02-26T00:00:00",
+      "SteamId": 3241660,
+      "MatchExecutablePatterns": [
+        "**\\REPO\\REPO.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg"
+    },
+    {
       "GameId": "RiseOfNations-2014",
       "Name": "Rise of Nations",
       "ReleaseDate": "2014-06-12T00:00:00",
