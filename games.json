@@ -1441,6 +1441,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920/eeb9384067131b98cd71308aeded180dd9538951.jpg"
     },
     {
+      "GameId": "Smalland-2024",
+      "Name": "Smalland: Survive the Wilds",
+      "ReleaseDate": "2024-02-15T00:00:00",
+      "SteamId": 768200,
+      "MatchExecutablePatterns": [
+        "**\\SMALLAND\\SMALLAND.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/768200/82fe464a17c8ac11b806ec3d2861860c21e161c0.jpg"
+    },
+    {
       "GameId": "SonsOfTheForest-2024",
       "Name": "Sons of the Forest",
       "ReleaseDate": "2024-02-22T00:00:00",
