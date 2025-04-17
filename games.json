@@ -487,6 +487,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1836730/e127de25605e0a939e2fc50d1672a1b75022b5a0.jpg"
     },
     {
+      "GameId": "ElderScrollsVSkyrim-2011",
+      "Name": "The Elder Scrolls V: Skyrim",
+      "ReleaseDate": "2011-11-11T00:00:00",
+      "SteamId": 72850,
+      "MatchExecutablePatterns": [
+        "**\\Skyrim Special Edition\\SkyrimSE.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/72850/b9aca8a189abd8d6aaf09047dbb0f57582683e1c.jpg"
+    },
+    {
       "GameId": "EliteDangerous-2014",
       "Name": "Elite Dangerous",
       "ReleaseDate": "2014-12-16T00:00:00",
