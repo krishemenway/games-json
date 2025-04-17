@@ -1199,7 +1199,16 @@
       ],
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1922560/fc6f1e8686ad5b42e270ea1ce592e30b5f77ef25.jpg"
     },
-    
+    {
+      "GameId": "Portal2-2011",
+      "Name": "Portal 2",
+      "ReleaseDate": "2011-04-19T00:00:00",
+      "SteamId": 620,
+      "MatchExecutablePatterns": [
+        "**\\Portal 2\\portal2.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620/2e478fc6874d06ae5baf0d147f6f21203291aa02.jpg"
+    },
     {
       "GameId": "Prey-2017",
       "Name": "Prey",
