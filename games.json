@@ -387,6 +387,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1259420/839338fcedd1033ab7f0d2a31c194fb880ebf7b5.jpg"
     },
     {
+      "GameId": "DeadIsland2-2024",
+      "Name": "Dead Island 2",
+      "ReleaseDate": "2024-04-22T00:00:00",
+      "SteamId": 934700,
+      "MatchExecutablePatterns": [
+        "**\\Dead Island 2\\DeadIsland.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/934700/07025c2a5e629a7a8200d7b2f736f2529c6d1b17.jpg"
+    },
+    {
       "GameId": "DeadOrAlive5LastRound-2015",
       "Name": "Dead or Alive 5: Last Round",
       "ReleaseDate": "2015-03-30T00:00:00",
