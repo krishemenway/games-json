@@ -1340,6 +1340,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/300380/d2f9a5b4ce0e9d465a20acc5fec2e10f599f11d5.jpg"
     },
     {
+      "GameId": "Roboquest-2019",
+      "Name": "Roboquest",
+      "ReleaseDate": "2023-11-07T00:00:00",
+      "SteamId": 692890,
+      "MatchExecutablePatterns": [
+        "**\\RoboQuest\\RoboQuest.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/3312e8dd4028e24c438abefeea65c28f21aeeaf9.jpg"
+    },
+    {
       "GameId": "RocketLeague-2015",
       "Name": "Rocket League",
       "ReleaseDate": "2015-07-07T00:00:00",
