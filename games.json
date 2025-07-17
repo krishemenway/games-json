@@ -1040,6 +1040,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1818750/b99e0727d4b37c022f33f8f72fada74c5108aac0.jpg"
     },
     {
+      "GameId": "MythForce-2023",
+      "Name": "MythForce",
+      "ReleaseDate": "2023-09-12T00:00:00",
+      "SteamId": 363860,
+      "MatchExecutablePatterns": [
+        "**\\MythForce\\MythForce.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1818750/6faf72d85ba2ad5391360e309ea51e3e7795828d.jpg"
+    },
+    {
       "GameId": "Nebuchadnezzar-2021",
       "Name": "Nebuchadnezzar",
       "ReleaseDate": "2021-02-17T00:00:00",
