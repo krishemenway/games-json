@@ -1160,6 +1160,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555160/d537afd8696affb4b2294aed07be5e13bcfc5d87.jpg"
     },
     {
+      "GameId": "PEAK-2025",
+      "Name": "PEAK",
+      "ReleaseDate": "2025-06-16T00:00:00",
+      "SteamId": 3527290,
+      "MatchExecutablePatterns": [
+        "**\\PEAK\\PEAK.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3527290/b3a992fd5991bd2f4c956d58e062b0ce2988d6cd.jpg"
+    },
+    {
       "GameId": "Phasmophobia-2020",
       "Name": "Phasmophobia",
       "ReleaseDate": "2020-09-18T00:00:00",
