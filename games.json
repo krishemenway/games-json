@@ -1551,6 +1551,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677620/03e452b180ff77986c3957819bde4c69448a2d0f.jpg"
     },
     {
+      "GameId": "Splitgate2-2025",
+      "Name": "Splitgate2",
+      "ReleaseDate": "2025-05-22T00:00:00",
+      "SteamId": 2918300,
+      "MatchExecutablePatterns": [
+        "**\\Splitgate 2\\PortalWars2\\Binaries\\Win64\\PortalWars2Client-Win64-Shipping.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2918300/35df7bc230fc4d12227ae194fb587a39c499c0b4.jpg"
+    },
+    {
       "GameId": "Starbound-2016",
       "Name": "Starbound",
       "ReleaseDate": "2016-07-22T00:00:00",
