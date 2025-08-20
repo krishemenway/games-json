@@ -377,6 +377,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1091500/15ba5f5437473a1b4d628b3b87223e84f4cfdf38.jpg"
     },
     {
+      "GameId": "DawnOfWarGold-2007",
+      "Name": "Warhammer 40k: Dawn of War Anniversary Edition",
+      "ReleaseDate": "2007-08-07T00:00:00",
+      "SteamId": 4570,
+      "MatchExecutablePatterns": [
+        "**\\Dawn of War Gold\\W40k.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4570/a4c7a8cce43d797c275aaf601d6855b90ba87769.jpg"
+    },
+    {
       "GameId": "DaysGone-2021",
       "Name": "Days Gone",
       "ReleaseDate": "2021-05-18T00:00:00",
