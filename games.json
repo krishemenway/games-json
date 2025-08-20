@@ -810,6 +810,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/905340/40c4305497de0d0ea540632e82dac34987354be8.jpg"
     },
     {
+      "GameId": "TheHeadliners-2025",
+      "Name": "The Headliners",
+      "ReleaseDate": "2025-01-30T00:00:00",
+      "SteamId": 3059070,
+      "MatchExecutablePatterns": [
+        "**\\Headliners\\Headliners.exe "
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3059070/c418a2be40255908b0455f6a8f24f35909cddf5c.jpg"
+    },
+    {
       "GameId": "HellboyWebOfWyrd-2023",
       "Name": "Hellboy Web of Wyrd",
       "ReleaseDate": "2023-10-18T00:00:00",
