@@ -1682,6 +1682,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/495420/d6d418d682accfb51ee089ea506587c9c924989b.jpg"
     },
     {
+      "GameId": "StickItToTheStickman-2025",
+      "Name": "Stick It to the Stickman",
+      "ReleaseDate": "2025-08-18T00:00:00",
+      "SteamId": 2085540,
+      "MatchExecutablePatterns": [
+        "**\\Stick It to the Stickman\\Stick It To The Stickman.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2085540/a96a7943cf7f3922988918d2cceea6cf7eb2d415.jpg"
+    },
+    {
       "GameId": "StrangeBrigade-2018",
       "Name": "Strange Brigade",
       "ReleaseDate": "2018-08-27T00:00:00",
