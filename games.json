@@ -1360,6 +1360,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2933130/29286f2af71b4c1752abf62428e2b60761f7e69a.jpg"
     },
     {
+      "GameId": "Riftbreaker-2021",
+      "Name": "The Riftbreaker", 
+      "ReleaseDate": "2021-10-14T00:00:00",
+      "SteamId": 780310,
+      "MatchExecutablePatterns": [
+        "**\\Riftbreaker\\bin\\riftbreaker_win_release.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/780310/628a2676cfb9adb61407c7c4ff63c350b3b8e6e5.jpg"
+    },
+    {
       "GameId": "RiseOfNations-2014",
       "Name": "Rise of Nations",
       "ReleaseDate": "2014-06-12T00:00:00",
