@@ -1601,6 +1601,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2918300/35df7bc230fc4d12227ae194fb587a39c499c0b4.jpg"
     },
     {
+      "GameId": "SplitFiction-2025",
+      "Name": "Split Fiction",
+      "ReleaseDate": "2025-03-06T00:00:00",
+      "SteamId": 2001120,
+      "MatchExecutablePatterns": [
+        "**\\Split Fiction\\Split\\Binaries\\Win64\\SplitFiction.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2001120/a01dc6ea47db8c74964d581fe9f1f8039e0e4f33.jpg"
+    },
+    {
       "GameId": "Starbound-2016",
       "Name": "Starbound",
       "ReleaseDate": "2016-07-22T00:00:00",
