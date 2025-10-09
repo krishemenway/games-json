@@ -1974,6 +1974,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1361210/d5393efe3861d02745efd35bc406f7740c8d6838.jpg"
     },
     {
+      "GameId": "WaterparkSimulator-2025",
+      "Name": "Waterpark Simulator",
+      "ReleaseDate": "2025-08-22T00:00:00",
+      "SteamId": 3293260,
+      "MatchExecutablePatterns": [
+        "**\\WaterPark Simulator\\WaterparkSimulator.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3293260/748bc3c1e0c66dd914345c3c0f59226cf0ed0294.jpg"
+    },
+    {
       "GameId": "WorldWarZAftermath-2021",
       "Name": "World War Z: Aftermath",
       "ReleaseDate": "2021-09-21T00:00:00",
