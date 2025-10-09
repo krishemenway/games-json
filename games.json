@@ -1521,6 +1521,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3920/eeb9384067131b98cd71308aeded180dd9538951.jpg"
     },
     {
+      "GameId": "SkerRitual-2024",
+      "Name": "Sker Ritual",
+      "ReleaseDate": "2024-05-18T00:00:00",
+      "SteamId": 1492070,
+      "MatchExecutablePatterns": [
+        "**\\Sker Ritual\\SkerRitual.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1492070/7668a16db453a041b53e3ce69dab75ec4bc47ce3.jpg"
+    },
+    {
       "GameId": "Smalland-2024",
       "Name": "Smalland: Survive the Wilds",
       "ReleaseDate": "2024-02-15T00:00:00",
