@@ -990,6 +990,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/368260/67a641b993a2bfab72a2466b4ee7050c184b7dc5.jpg"
     },
     {
+      "GameId": "Megabonk-2025",
+      "Name": "Megabonk",
+      "ReleaseDate": "2025-09-18T00:00:00",
+      "SteamId": 3405340,
+      "MatchExecutablePatterns": [
+        "**\\Megabonk\\Megabonk.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/58f3ad0e00cec5a99716c4259ec99cc8d5146f24.jpg"
+    },
+    {
       "GameId": "MetalGearSolidV-2015",
       "Name": "Metal Gear Solid V: The Phantom Pain",
       "ReleaseDate": "2015-09-01T00:00:00",
