@@ -447,6 +447,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238060/22294a53f3376c8f8ad0c8ecea1bfd11a2559258.jpg"
     },
     {
+      "GameId": "DeadzoneRogue-2025",
+      "Name": "Deadzone: Rogue",
+      "ReleaseDate": "2025-08-11T00:00:00",
+      "SteamId": 3228590,
+      "MatchExecutablePatterns": [
+        "**\\Deadzone Rogue\\DeadzoneSteam.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ae783ad4b1b248b1f5e1969a54c24ddd15bdc227.jpg"
+    },
+    {
       "GameId": "DeepRockGalactic-2018",
       "Name": "Deep Rock Galactic",
       "ReleaseDate": "2018-02-28T00:00:00",
