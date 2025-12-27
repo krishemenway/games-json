@@ -1541,6 +1541,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/356190/316c479e5d51d21e15eb8f82338fce82c42c4115.jpg"
     },
     {
+      "GameId": "Shredders-2022",
+      "Name": "Shredders",
+      "ReleaseDate": "2022-03-16T00:00:00",
+      "SteamId": 1874170,
+      "MatchExecutablePatterns": [
+        "**\\Shredders\\Shredders.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874170/ad3d818a12cfdd30d94c9aa098e9ea9aae789a11.jpg"
+    },
+    {
       "GameId": "SidMeiersPirates-2005",
       "Name": "Sid Meier\u0027s Pirates!",
       "ReleaseDate": "2005-07-11T00:00:00",
