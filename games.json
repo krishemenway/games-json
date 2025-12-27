@@ -1220,6 +1220,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555160/d537afd8696affb4b2294aed07be5e13bcfc5d87.jpg"
     },
     {
+      "GameId": "PBAProBowling2026-2025",
+      "Name": "PBA Pro Bowling 2026",
+      "ReleaseDate": "2025-12-19T00:00:00",
+      "SteamId": 3127230,
+      "MatchExecutablePatterns": [
+        "**\\PBA Pro Bowling 2026\\PBABowling4.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3127230/2210deda81be7b3a0efdf05f604b813c4b944ea9.jpg"
+    },
+    {
       "GameId": "PEAK-2025",
       "Name": "PEAK",
       "ReleaseDate": "2025-06-16T00:00:00",
