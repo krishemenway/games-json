@@ -477,6 +477,16 @@
       "IconUri": "https://blz-contentstack-images.akamaized.net/v3/assets/blt72f16e066f85e164/blt15336eccf10cd269/diablo-IV.webp"
     },
     {
+      "GameId": "DungeonsOfEternity-2025",
+      "Name": "Dungeons of Eternity",
+      "ReleaseDate": "2025-09-11T00:00:00",
+      "SteamId": 3189340,
+      "MatchExecutablePatterns": [
+        "**\\Dungeons of Eternity\\DoE.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3189340/3bb64b555e10866da94205fa2029d1ece353b85f.jpg"
+    },
+    {
       "GameId": "DwarfFortress-2022",
       "Name": "Dwarf Fortress",
       "ReleaseDate": "2022-12-06T00:00:00",
