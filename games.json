@@ -950,6 +950,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/587220/1b15f20a02c87206ea30968782ecc6ba5b8cbc57.jpg"
     },
     {
+      "GameId": "JumpSpace-2025",
+      "Name": "Jump Space",
+      "ReleaseDate": "2025-09-19T00:00:00",
+      "SteamId": 1757300,
+      "MatchExecutablePatterns": [
+        "**\\JumpSpace\\Jump Space.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1757300/bf17dea5fe4340915e328e29b00b6fc43579194b.jpg"
+    },
+    {
       "GameId": "KillingFloor2-2016",
       "Name": "Killing Floor 2",
       "ReleaseDate": "2016-11-18T00:00:00",
