@@ -113,6 +113,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/361420/18ef632a152a69a8fb4f62c074cd50aa15d3bf33.jpg"
     },
     {
+      "GameId": "Abyssus-2025",
+      "Name": "Abyssus",
+      "ReleaseDate": "2025-08-12T00:00:00",
+      "SteamId": 1721110,
+      "MatchExecutablePatterns": [
+        "**\\Abyssus\\RGame.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1721110/5384b0edef3ae9cf795099f82e9d56218218d52c.jpg"
+    },
+    {
       "GameId": "Back4Blood-2021",
       "Name": "Back 4 Blood",
       "ReleaseDate": "2021-10-12T00:00:00",
