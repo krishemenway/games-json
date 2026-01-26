@@ -1420,6 +1420,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2933130/29286f2af71b4c1752abf62428e2b60761f7e69a.jpg"
     },
     {
+      "GameId": "RevengeOfTheSavagePlanet-2025",
+      "Name": "Revenge of the Savage Planet",
+      "ReleaseDate": "2025-05-08T00:00:00",
+      "SteamId": 2787320,
+      "MatchExecutablePatterns": [
+        "**\\Revenge of the Savage Planet\\Windows\\Towers.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2787320/b6acaac7789e70a10ca5b1eaf398f994d3fa6176.jpg"
+    },
+    {
       "GameId": "Riftbreaker-2021",
       "Name": "The Riftbreaker", 
       "ReleaseDate": "2021-10-14T00:00:00",
