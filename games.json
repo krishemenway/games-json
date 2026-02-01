@@ -1873,6 +1873,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e3f595a92552da3d664ad00277fad2107345f743.jpg"
     },
     {
+      "GameId": "TeamFortress2Classified-2026",
+      "Name": "Team Fortress 2 Classified",
+      "ReleaseDate": "2026-01-30T00:00:00",
+      "SteamId": 3545060,
+      "MatchExecutablePatterns": [
+        "**\\Team Fortress 2 Classified\\tf2classified_win64.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3545060/e8ad16bf68e1338627ffe9219496cade521e66be.jpg"
+    },
+    {
       "GameId": "Terraria-2011",
       "Name": "Terraria",
       "ReleaseDate": "2011-05-16T00:00:00",
