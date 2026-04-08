@@ -1140,6 +1140,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1157220/2ae1e989e64337680cebcd878967582c40036e28.jpg"
     },
     {
+      "GameId": "Necesse-2025",
+      "Name": "Necesse",
+      "ReleaseDate": "2025-10-16T00:00:00",
+      "SteamId": 1169040,
+      "MatchExecutablePatterns": [
+        "**\\Necesse\\Necesse.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1169040/b9e3becff5c706c4e57db3699ab7451cd178394e.jpg"
+    },
+    {
       "GameId": "NewWorld-2021",
       "Name": "New World",
       "ReleaseDate": "2021-09-28T00:00:00",
