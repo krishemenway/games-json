@@ -1903,6 +1903,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3545060/e8ad16bf68e1338627ffe9219496cade521e66be.jpg"
     },
     {
+      "GameId": "Teardown-2022",
+      "Name": "Teardown",
+      "ReleaseDate": "2022-04-21T00:00:00",
+      "SteamId": 1167630,
+      "MatchExecutablePatterns": [
+        "**\\Teardown\\teardown.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1167630/2820515b4c8ed6e78724c6a0e5903e7c2a95dce8.jpg"
+    },
+    {
       "GameId": "Terraria-2011",
       "Name": "Terraria",
       "ReleaseDate": "2011-05-16T00:00:00",
