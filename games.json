@@ -1520,6 +1520,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1253920/26b5893433c0983aa19ec4403465f7616a46e5cb.jpg"
     },
     {
+      "GameId": "RVThereYet-2025",
+      "Name": "RV There Yet?",
+      "ReleaseDate": "2025-10-21T00:00:00",
+      "SteamId": 3949040,
+      "MatchExecutablePatterns": [
+        "**\\Ride\\Ride.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3949040/cd01f1daaaa3fb022e9913dc2d66a23c5091b5d5.jpg"
+    },
+    {
       "GameId": "SairentoVR-2018",
       "Name": "Sairento VR",
       "ReleaseDate": "2018-02-06T00:00:00",
