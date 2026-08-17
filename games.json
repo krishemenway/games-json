@@ -1220,6 +1220,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/275850/fccb20f309ac5ae05b3cb4576a8a3357edf86f2e.jpg"
     },
     {
+      "GameId": "Oddsparks-2025",
+      "Name": "Oddsparks: An Automation Adventure",
+      "ReleaseDate": "2025-05-27T00:00:00",
+      "SteamId": 1817800,
+      "MatchExecutablePatterns": [
+        "**\\Oddsparks\\Oddsparks.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817800/e8c2b44c04b24ba76e963931e7e2013fc190e24b.jpg"
+    },
+    {
       "GameId": "OrcsMustDie3-2021",
       "Name": "Orcs Must Die! 3",
       "ReleaseDate": "2021-07-23T00:00:00",
