@@ -657,6 +657,16 @@
       "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/201510/6deb786b20d0b2beb1cc201132c634feefddcd4d.jpg"
     },
     {
+      "GameId": "Flotsam-2025",
+      "Name": "Flotsam",
+      "ReleaseDate": "2025-12-04T00:00:00",
+      "SteamId": 821250,
+      "MatchExecutablePatterns": [
+        "**\\Flotsam\\Flotsam.exe"
+      ],
+      "IconUri": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/821250/904a15d401d4cb31d19270e0862441663bbe9d6e.jpg"
+    },
+    {
       "GameId": "Fortnite-2017",
       "Name": "Fortnite",
       "ReleaseDate": "2017-09-26T00:00:00",
